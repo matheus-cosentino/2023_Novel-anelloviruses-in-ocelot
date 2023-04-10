@@ -1,1 +1,985 @@
-(Lp_strain_1:0.2037990766,(((((((MK069470_Torque_teno_felid_virus_3_WF10_2:0.9357053685,(((MT538165.1:0.0829856022,(MT538156.1:0.0171457875,MT538051.1:0.0250279982)99.8/100:0.0602449470)57.3/95:0.0391993221,MT538098.1:0.0882310835)100/100:0.1662036471,(MT538096.1:0.1797078649,MT538088.1:0.1881856210)45.2/85:0.0405362744)97.4/100:0.0962663728)85.5/78:0.0656268784,((((((MT538181.1:0.0052321984,(MT538066.1:0.0000010001,MT538065.1:0.0000010001)58.4/100:0.0007875721)96.7/100:0.0161349341,(((MT538169.1:0.0000024604,(MT538112.1:0.0000010001,MT538107.1:0.0000010001)99.5/100:0.0105911029)64.8/94:0.0014979483,MT538064.1:0.0000022669)96.6/94:0.0111424404,MT538054.1:0.0117270725)69.3/94:0.0084422454)99.9/100:0.0450555599,MT538154.1:0.0803937900)89.9/99:0.0205276087,((MT538118.1:0.0000010001,MT538100.1:0.0000010001)100/100:0.0934130210,MT538075.1:0.0749460201)45.4/89:0.0096433701)100/100:0.2297223047,((MT538121.1:0.0000010001,MT538120.1:0.0000010001)100/100:0.1423113915,MT538074.1:0.1658283079)99.7/100:0.1464943081)99.4/100:0.1026669616,(((((MT538179.1:0.0358464509,MT538173.1:0.0149181323)99.9/100:0.2053936274,(((MT538135.1:0.0000000000,MT538045.1:0.0000000000):0.0000010001,MT538113.1:0.0000025972)38.9/100:0.0060504523,MT538132.1:0.0000022483)100/100:0.2146639070)100/100:0.1956289766,((MT538152.1:0.0784887137,MT538062.1:0.0912942277)100/100:0.1743801523,MT538089.1:0.3522343071)99.9/100:0.1450152350)79.6/70:0.0695279531,((MT538136.1:0.0973051268,MT538084.1:0.0353087614)100/100:0.2050635692,MT538131.1:0.2999556391)100/99:0.1750114546)69.6/55:0.0129220182,(((((((((MT538162.1:0.1723996343,(MT538151.1:0.0122393316,MT538150.1:0.0249209422)100/100:0.2945095801)50.8/95:0.0515157971,MT538015.1:0.2037295010)98.5/97:0.1035965164,MT537993.1:0.2766386243)97.8/95:0.1171614234,(MT538133.1:0.2235182883,MT538082.1:0.2798620282)99/100:0.1388753897)94.5/96:0.2637273935,MT538139.1:2.1499255538)41.3/38:0.0737279048,((((MT538032.1:0.0364231278,((MT538028.1:0.0205753397,(MT538018.1:0.0403336424,MT538002.1:0.0423246420)91.8/99:0.0154097016)41.8/78:0.0136024693,MT538010.1:0.0287086780)98/100:0.0399655510)100/100:0.1248778814,((MT538029.1:0.0390595069,MT538014.1:0.0527851793)44.9/76:0.0184092735,MT538025.1:0.0351276697)100/100:0.0974635297)99.9/100:0.1235359550,((MT537997.1:0.0153068687,MT537990.1:0.0047357247)44/100:0.0052010373,MT537975.1:0.0000021649)100/100:0.2547232264)92.4/100:0.0733643775,((MT537979.1:0.1457820136,MT537968.1:0.1484419997)99.3/100:0.1001763787,MT537978.1:0.1560095511)94.8/100:0.0827408127)100/100:0.2344660010)97.5/39:0.1138802152,(((((((MT538130.1:0.0000010001,MT538127.1:0.0027758667)100/100:0.0389427939,MT538006.1:0.0193331114)35.6/93:0.0041031983,(MT538034.1:0.0081934863,MT538019.1:0.0001889483)98.6/100:0.0131032183)92.6/98:0.0134782800,MT538009.1:0.0504807516)12/67:0.0059138258,MT538005.1:0.0355707006)100/100:0.1476027743,MT538031.1:0.2144057920)99.1/100:0.1481529372,((MT538128.1:0.0103374544,MT538027.1:0.0159079440)86.7/100:0.0241610761,(MT538021.1:0.0017481207,MT538013.1:0.0051582411)97.2/100:0.0403835693)100/100:0.3384883092)99.5/100:0.1483578291)97.7/71:0.1034175648,((((((((((MT538038.1:0.0405639409,MT538007.1:0.0310658954)39.2/100:0.0091014636,MT538016.1:0.0475846732)43.7/99:0.0148087685,(MT538008.1:0.0067940706,MT538004.1:0.0063924216)100/100:0.0598998885)90.9/100:0.0236785879,((MT538035.1:0.0405606744,MT538026.1:0.0219132041)96.3/100:0.0147452264,MT538003.1:0.0202784380)97.4/100:0.0330772379)93.3/100:0.0415443951,MT538023.1:0.0580679598)100/100:0.1023895093,MT538020.1:0.1439551035)97.8/100:0.0694068863,((MT538037.1:0.0099144436,MT538012.1:0.0134089413)51.6/99:0.0280308348,MT538030.1:0.0711785654)100/100:0.1313727902)95.3/100:0.0655628993,MT537992.1:0.2430464159)90.7/100:0.0431073157,((MT538000.1:0.0068277930,MT537995.1:0.0087933036)100/100:0.1167158147,MT537973.1:0.1924540071)99.6/100:0.1000648813)100/100:0.1884642854,((((MT538001.1:0.0014004176,((MT537994.1:0.0014041414,(MT537984.1:0.0000010001,MT537982.1:0.0000010001)91.3/99:0.0028057342)78.7/96:0.0014035690,MT537981.1:0.0014029344)0/67:0.0000025245)100/100:0.1042408344,((((MT537989.1:0.0000025637,MT537974.1:0.0014054532)83.5/100:0.0025828821,MT537988.1:0.0044594053)79.4/100:0.0042704279,(MT537976.1:0.0084870281,MT537972.1:0.0028613473)83.4/100:0.0030058366)99.1/100:0.0245944621,MT537985.1:0.0197962345)99.8/100:0.0785135839)100/100:0.1497249950,(MT537999.1:0.2174721896,((((MT537991.1:0.0000010001,MT537983.1:0.0000010001)0/95:0.0000021607,MT537980.1:0.0100498707)43.5/65:0.0048956760,MT537971.1:0.0022556339)100/100:0.2239260584,(((MT537987.1:0.0000010001,MT537986.1:0.0000010001)74.9/100:0.0013474199,MT537969.1:0.0071933557)94.9/100:0.0085594362,MT537970.1:0.0000021825)100/100:0.1461835855)100/100:0.1228367949)93.5/86:0.0552886450)90.1/85:0.0468093691,(MT537998.1:0.2009253565,MT537977.1:0.2383147681)99.3/100:0.0861139547)99.9/100:0.1298105231)96.8/99:0.0868034476)85.1/77:0.0878184686,(((((MT538129.1:0.0000010001,MT538126.1:0.0000010001)100/100:0.2706429967,MT538011.1:0.1713616471)97.5/100:0.0878715724,(MT538024.1:0.1681166195,MT537996.1:0.2035005220)100/100:0.1715114721)99.5/98:0.1113609467,(MT538036.1:0.0194231530,(MT538022.1:0.0028002171,MT538017.1:0.0028628183)90.4/99:0.0363797191)100/100:0.4638129536)23.3/48:0.0503875234,MT538033.1:0.2975922640)36.8/77:0.1302381557)100/100:1.9514838630)79.4/53:0.0175819741)89.5/57:0.0349255725)99.5/100:0.0863027697,((((((MT538177.1:0.0020543175,MT538071.1:0.0307099082)100/100:0.0645794273,MT538073.1:0.0468671105)72.8/72:0.0099729085,(MT538170.1:0.0501908184,MT537965.1:0.0594335729)93.3/80:0.0205343373)12.7/63:0.0116683494,MT538144.1:0.0273504584)95.9/86:0.0410464462,(MT538159.1:0.0444773786,(MT538046.1:0.0000010001,MT538044.1:0.0014923591)99.8/100:0.0448292779)94.7/100:0.0435680130)100/100:0.1909296664,((((((MT538176.1:0.0168049611,MT538119.1:0.0264527043)94.2/99:0.0092836001,(MT538158.1:0.0106189654,(MT538140.1:0.0493386938,((MT538111.1:0.0127344822,MT538056.1:0.0185615655)63.5/53:0.0014654528,(MT538106.1:0.0077587358,MT538068.1:0.0072735454)71/53:0.0026773471)99.1/100:0.0159328306)86.3/99:0.0057113035)71.5/99:0.0015377901)30.1/89:0.0104755750,MT538043.1:0.0099125341)100/100:0.1392466820,MT538142.1:0.2491770075)99.2/100:0.0908963360,((((((MT538171.1:0.0076034741,MT538059.1:0.0168681614)96.5/88:0.0131216416,(MT538122.1:0.0014733935,(MT538057.1:0.0067884938,MT538049.1:0.0166732833)93.3/100:0.0070048050)88.2/98:0.0071202721)55.3/86:0.0132903642,MT538148.1:0.0548777115)99.7/95:0.0494634688,(MT538114.1:0.1362034322,MT538041.1:0.0810234917)76.6/41:0.0289056633)75.8/42:0.0193863744,MT537966.1:0.0710174771)100/100:0.1329515862,(((MT538157.1:0.0855686872,MT538053.1:0.0677626188)59/76:0.0218724185,MT537967.1:0.0859291698)49.7/76:0.0304373068,(MT538117.1:0.0685666665,MT538097.1:0.0788708069)94.7/100:0.0467547719)99.4/100:0.0816762646)98.8/100:0.0866884513)42.7/87:0.0413064009,((MT538110.1:0.0542831780,MT538061.1:0.0274901609)70.6/95:0.0328743940,(MT538077.1:0.0852650700,(((MT538070.1:0.0014606640,MT538069.1:0.0092924275)99.1/100:0.0213901045,((MT538063.1:0.0140295539,MT538047.1:0.0000023811)98.8/99:0.0092258301,MT538048.1:0.0000027053)94.4/99:0.0117239643)45.6/98:0.0168566241,(MT538055.1:0.0076433733,MT538052.1:0.0096513628)94/100:0.0188696384)99.9/100:0.0724629836)24.1/75:0.0158652841)100/100:0.1592972235)69.7/99:0.0301898299)100/100:0.1490017618)88.1/75:0.0361573389,(((((MT538184.1:0.0240504723,(MT538172.1:0.0000010001,MT538145.1:0.0000010001)98.1/100:0.0180571490)97.2/100:0.0240401078,((MT538180.1:0.0457833118,MT538146.1:0.0236033324)96.2/100:0.0194383350,MT538095.1:0.0400693253)31/97:0.0142847425)98.4/99:0.0453317031,MT538141.1:0.0434638687)100/100:0.0921770474,((((MT538174.1:0.0188317985,(MT538168.1:0.0243577480,MT538042.1:0.0180342372)66/99:0.0172603529)85.4/100:0.0137193831,MT538072.1:0.0523454320)98.1/100:0.0435052625,MT538080.1:0.0421157187)89.8/100:0.0338844124,MT538143.1:0.0886702313)99.3/100:0.0637355004)99.8/100:0.0973267068,(((MT538160.1:0.0161625781,MT538134.1:0.0320275286)56.4/99:0.0163095899,(MT538085.1:0.0055158631,MT538081.1:0.0083742027)99.9/100:0.0565823349)100/100:0.1867798717,MT538094.1:0.1761794012)99.1/100:0.0906951637)100/100:0.1144092467)76.8/42:0.0363730938,(((((MT538183.1:0.0015130353,MT538182.1:0.0000010001)100/100:0.0457266657,(MT538178.1:0.0201732450,MT538167.1:0.0030123236)99.7/100:0.0329452272)99.4/47:0.0270786198,MT538116.1:0.0142436634)74.9/47:0.0151857259,MT538050.1:0.0183625231)100/100:0.2521350367,MT538087.1:0.2879061918)97.2/87:0.1071597280)49.1/27:0.0304989845,(((((MT538175.1:0.0143780620,MT538153.1:0.0434501504)100/100:0.2175337965,(((((MT538155.1:0.0041417570,MT538067.1:0.0078985385)12.4/89:0.0014708326,(MT538123.1:0.0079457697,MT538108.1:0.0135332301)75.8/100:0.0016563867)100/100:0.0742705549,(MT538147.1:0.0514858010,MT538101.1:0.0302133232)92.7/100:0.0283062530)79.6/99:0.0179986186,(MT538115.1:0.0156793146,MT538099.1:0.0058235347)81/100:0.0113444296)100/100:0.1008120044,((MT538149.1:0.0240515054,MT538039.1:0.0214316575)17.7/80:0.0143648780,(MT538104.1:0.0000010001,MT538102.1:0.0000010001)98.4/100:0.0287816534)99.8/100:0.0926049783)100/100:0.1562436512)86.4/93:0.0384913546,((MT538166.1:0.0032933376,(MT538163.1:0.0100643137,MT538125.1:0.0166846688)48.2/93:0.0037292716)100/100:0.1740664186,MT538086.1:0.1664635288)99.6/100:0.1045164914)94.3/92:0.0564395238,MT538138.1:0.2547044070)75.1/85:0.0401575574,((((((((MT538164.1:0.0000000000,MT538058.1:0.0000000000):0.0000021873,MT538060.1:0.0000010001)0/99:0.0000027379,MT538124.1:0.0030036589)99/100:0.0137539465,MT538079.1:0.0061140264)86.4/83:0.0044607966,MT538040.1:0.0000026389)22.1/83:0.0024044707,MT538103.1:0.0067363628)99.1/99:0.0259699317,((MT538109.1:0.0272813946,MT538076.1:0.0389456887)86.5/99:0.0135222516,MT538105.1:0.0188287545)85/100:0.0125329764)98.5/100:0.0620876526,MT538078.1:0.0331327156)100/100:0.3494962596)78.7/48:0.0455332098)93.8/40:0.0419949249,((MT538161.1:0.0812761295,MT538092.1:0.0586384562)100/100:0.2082171104,(((MT538093.1:0.0000010001,MT538090.1:0.0000010001)0/85:0.0000010001,MT538091.1:0.0014905055)100/100:0.2621318657,MT538083.1:0.2968859547)24.7/41:0.0371037061)85.9/63:0.0395330471)100/100:0.1546857249,MT538137.1:0.1905675745);
+#NEXUS
+begin taxa;
+	dimensions ntax=884;
+	taxlabels
+	AB011493_Human
+	'AB017613|Torque_teno_virus_15|Homo_sapiens|Hominidae'
+	'AB025946|Torque_teno_virus_19|Homo_sapiens|Hominidae'
+	'AB026929|Torque_teno_mini_virus_6|Homo_sapiens|Hominidae'
+	'AB026931|Torque_teno_mini_virus_1|Homo_sapiens|Hominidae'
+	'AB028668|Torque_teno_virus_15|Homo_sapiens|Hominidae'
+	'AB037926|Torque_teno_virus_14|Pan_troglodytes|Hominidae'
+	AB038619_Human
+	'AB038621|Torque_teno_virus_29|Homo_sapiens|Hominidae'
+	AB038624_Human
+	'AB038625|Torque_teno_mini_virus_9|Homo_sapiens|Hominidae'
+	AB038626_Human
+	'AB038627|Torque_teno_mini_virus_7|Homo_sapiens|Hominidae'
+	'AB038629|Torque_teno_mini_virus_2|Homo_sapiens|Hominidae'
+	'AB038630|Torque_teno_mini_virus_3|Homo_sapiens|Hominidae'
+	'AB041007|Torque_teno_virus_1|Homo_sapiens|Hominidae'
+	'AB041957|Torque_teno_virus_4|Pan_troglodytes|Hominidae'
+	'AB041958|Torque_teno_virus_26|Macaca_fuscata|Cercopithecidae'
+	'AB041959|Torque_teno_virus_25|Macaca_fuscata|Cercopithecidae'
+	'AB041960|Torque_teno_tamarin_virus|Saguinus_oedipus|Callitrichidae'
+	'AB041961|Torque_teno_douroucouli_virus|Aotes_trivirgatus|Aotidae'
+	'AB041962|Torque_teno_mini_virus_5|Homo_sapiens|Hominidae'
+	'AB041963|Torque_teno_mini_virus_4|Pan_troglodytes|Hominidae'
+	'AB049607|Torque_teno_virus_24|Pan_troglodytes|Hominidae'
+	'AB049608|Torque_teno_virus_2|Pan_troglodytes|Hominidae'
+	'AB054647|Torque_teno_virus_7|Homo_sapiens|Hominidae'
+	AB054648_Human
+	'AB057358|Torque_teno_tupaia_virus|Tupaia_belangeri_chinensis|Tupaiidae'
+	'AB060594|Torque_teno_virus_20|Homo_sapiens|Hominidae'
+	'AB060597|Torque_teno_virus_24|Homo_sapiens|Hominidae'
+	'AB064595|Torque_teno_virus_29|Homo_sapiens|Hominidae'
+	'AB064598|Torque_teno_virus_29|Homo_sapiens|Hominidae'
+	'AB064605|Torque_teno_virus_9|Homo_sapiens|Hominidae'
+	'AB064607|Torque_teno_virus_9|Homo_sapiens|Hominidae'
+	'AB076001|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'AB076002|Torque_teno_canid_virus_1|Canis_lupus_familiaris|Canidae'
+	AB076003_Torque_teno_felid_virus_1
+	'AB290917|Torque_teno_midi_virus_1|Homo_sapiens|Hominidae'
+	'AB290919|Torque_teno_midi_virus_2|Homo_sapiens|Hominidae'
+	'AB303552|Torque_teno_midi_virus_5|Homo_sapiens|Hominidae'
+	'AB303553|Torque_teno_midi_virus_6|Homo_sapiens|Hominidae'
+	'AB303554|Torque_teno_midi_virus_7|Homo_sapiens|Hominidae'
+	'AB303558|Torque_teno_midi_virus_8|Homo_sapiens|Hominidae'
+	'AB303559|Torque_teno_midi_virus_9|Homo_sapiens|Hominidae'
+	'AB303560|Torque_teno_midi_virus_10|Homo_sapiens|Hominidae'
+	'AB303561|Torque_teno_midi_virus_11|Homo_sapiens|Hominidae'
+	'AB303562|Torque_teno_midi_virus_12|Homo_sapiens|Hominidae'
+	'AB303563|Torque_teno_midi_virus_6|Homo_sapiens|Hominidae'
+	'AB303564|Torque_teno_midi_virus_13|Homo_sapiens|Hominidae'
+	'AB303566|Torque_teno_midi_virus_14|Homo_sapiens|Hominidae'
+	'AB449062|Torque_teno_midi_virus_15|Pan_troglodytes|Hominidae'
+	AB449063_Chimpanzee
+	'AF261761|Torque_teno_virus_7|Homo_sapiens|Hominidae'
+	'AF291073|Torque_teno_mini_virus_8|Homo_sapiens|Hominidae'
+	'AF298585|Torque_teno_virus_3|Homo_sapiens|Hominidae'
+	'AF345523|Torque_teno_virus_5|Homo_sapiens|Hominidae'
+	'AF345524|Torque_teno_virus_9|Homo_sapiens|Hominidae'
+	'AF345526|Torque_teno_virus_14|Homo_sapiens|Hominidae'
+	'AF348409|Torque_teno_virus_21|Homo_sapiens|Hominidae'
+	'AF351132|Torque_teno_virus_1|Homo_sapiens|Hominidae'
+	'AF435014|Torque_teno_virus_6|Homo_sapiens|Hominidae'
+	AJ620228_Human
+	AY264849_Human
+	'AY622908|Torque_teno_midi_virus_1|Homo_sapiens|Hominidae'
+	'AY622909|Torque_teno_midi_virus_2|Homo_sapiens|Hominidae'
+	'AY666122|Torque_teno_virus_3|Homo_sapiens|Hominidae'
+	'AY823988|Torque_teno_virus_24|Homo_sapiens|Hominidae'
+	'AY823989|Torque_teno_virus_14|Homo_sapiens|Hominidae'
+	'AY823990|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'AY823991|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'EF538875|Torque_teno_midi_virus_3|Homo_sapiens|Hominidae'
+	'EF538876|Torque_teno_midi_virus_4|Homo_sapiens|Hominidae'
+	EF538877_Torque_teno_felid_virus_2
+	EF538878_Cat
+	'EF538880|Torque_teno_mini_virus_10|Homo_sapiens|Hominidae'
+	'EF538881|Torque_teno_mini_virus_11|Homo_sapiens|Hominidae'
+	'EF538882|Torque_teno_mini_virus_12|Homo_sapiens|Hominidae'
+	EU867817_SEA_TURTLE
+	EU867824_SEA_TURTLE
+	'FJ426280|Torque_teno_virus_24|Homo_sapiens|Hominidae'
+	FJ459582_Sea_lion
+	'GQ120664|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'GU188045|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'GU188046|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'GU376737|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'GU450331|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'GU456383|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'GU456384|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'GU456385|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'GU456386|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'GU570197|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'GU570198|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'GU570199|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'GU570200|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'GU570201|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'GU570202|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'GU570203|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'GU570204|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'GU570205|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'GU570206|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'GU570207|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'GU570208|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'GU570209|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'GU797360|Torque_teno_virus_9|Homo_sapiens|Hominidae'
+	'GU951508|Torque_teno_canid_virus_1|Canis_lupus_familiaris|Canidae'
+	HM142588_Cat
+	HM142589_Cat
+	'HM633214|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'HM633215|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'HM633216|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'HM633217|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'HM633218|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'HM633219|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'HM633220|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'HM633221|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'HM633222|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'HM633223|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'HM633224|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'HM633225|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'HM633226|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'HM633227|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'HM633228|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'HM633229|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'HM633230|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'HM633231|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'HM633232|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'HM633233|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'HM633234|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'HM633235|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'HM633236|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'HM633237|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'HM633238|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'HM633239|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'HM633240|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'HM633241|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'HM633242|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'HM633243|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'HM633244|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'HM633245|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'HM633246|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'HM633247|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'HM633248|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'HM633249|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'HM633250|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'HM633251|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'HM633252|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'HM633253|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'HM633254|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'HM633255|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'HM633256|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'HM633257|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'HM633258|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'HQ204188|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	HQ287751_Seal_harbor
+	'HQ335084|Torque_teno_arthrovec_virus_2|Mosquitoes__mixed_species_|Culicidae'
+	'HQ335085|Torque_teno_arthrovec_virus_2|Mosquitoes__mixed_species_|Culicidae'
+	JF304937_Torque_teno_felid_virus_5
+	JF304938_Torque_teno_felid_virus_4
+	'JF694116|Torque_teno_sus_virus_1a|Felis_catus|Felidae'
+	'JF694117|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'JF694118|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'JF937656|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'JF937657|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'JF937658|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'JF937659|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'JF937660|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'JF937661|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'JF937662|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'JN704611|Torque_teno_mustilid_virus_1|Martes_americana|Mustelidae'
+	'JQ406844|Torque_teno_sus_virus_k2b|Sus_scrofa|Suidae'
+	'JQ406845|Torque_teno_sus_virus_k2b|Sus_scrofa|Suidae'
+	'JQ406846|Torque_teno_sus_virus_k2b|Sus_scrofa|Suidae'
+	'JQ664305|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'JQ933527|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'JX134044|Torque_teno_mini_virus_15|Homo_sapiens|Hominidae'
+	'JX134045|Torque_teno_mini_virus_5|Homo_sapiens|Hominidae'
+	'JX134046|Torque_teno_mini_virus_19|Homo_sapiens|Hominidae'
+	'JX535325|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'JX535326|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'JX535327|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'JX535328|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'JX535329|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'JX535330|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'JX535331|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'JX535332|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'JX535333|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'JX535334|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'JX535335|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	KF373760_Seal_harbor
+	'KF660540|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'KF764701|Torque_teno_mini_virus_18|Homo_sapiens|Hominidae'
+	'KF764702|Torque_teno_mini_virus_18|Homo_sapiens|Hominidae'
+	'KJ082064|Torque_teno_virus_31|Homo_sapiens|Hominidae'
+	'KJ194502|Torque_teno_virus_14|Homo_sapiens|Hominidae'
+	'KJ194503|Torque_teno_virus_32|Homo_sapiens|Hominidae'
+	'KJ194604|Torque_teno_rodent_virus_4|Apodemus_sylvaticus|Muridae'
+	'KJ194605|Torque_teno_rodent_virus_4|Apodemus_sylvaticus|Muridae'
+	'KJ194606|Torque_teno_rodent_virus_4|Apodemus_sylvaticus|Muridae'
+	'KJ194607|Torque_teno_rodent_virus_4|Apodemus_sylvaticus|Muridae'
+	'KJ194608|Torque_teno_rodent_virus_4|Microtus_agrestis|Cricetidae'
+	'KJ194609|Torque_teno_rodent_virus_4|Microtus_agrestis|Cricetidae'
+	'KJ194610|Torque_teno_rodent_virus_4|Microtus_agrestis|Cricetidae'
+	'KJ194611|Torque_teno_rodent_virus_4|Microtus_agrestis|Cricetidae'
+	'KJ194612|Torque_teno_rodent_virus_4|Microtus_agrestis|Cricetidae'
+	'KJ194613|Torque_teno_rodent_virus_4|Microtus_agrestis|Cricetidae'
+	'KJ194614|Torque_teno_rodent_virus_4|Microtus_agrestis|Cricetidae'
+	'KJ194615|Torque_teno_rodent_virus_4|Apodemus_sylvaticus|Muridae'
+	'KJ194616|Torque_teno_rodent_virus_4|Apodemus_sylvaticus|Muridae'
+	KM229764_Cat
+	KM229765_Cat
+	KM229766_Cat
+	'KM259873|Torque_teno_mini_virus_27|Homo_sapiens|Hominidae'
+	'KM259874|Torque_teno_mini_virus_16|Homo_sapiens|Hominidae'
+	'KM262782|Torque_teno_pinniped_virus_4|Phoca_vitulina|Phocidae'
+	'KM262783|Torque_teno_pinniped_virus_4|Phoca_vitulina|Phocidae'
+	'KM434181|Torque_teno_chiroptera_virus_1|Tadarida_brasiliensis|Molossidae'
+	KM593801_Cat
+	'KM593802|Torque_teno_virus_18|Homo_sapiens|Hominidae'
+	'KM593803|Torque_teno_virus_18|Homo_sapiens|Hominidae'
+	'KM609325|Torque_teno_rodent_virus_5|Rattus_norvegicus|Muridae'
+	'KM668485|Torque_teno_rodent_virus_5|Rattus_norvegicus|Muridae'
+	'KM668486|Torque_teno_rodent_virus_5|Rattus_norvegicus|Muridae'
+	'KP036971|Torque_teno_virus_29|Homo_sapiens|Hominidae'
+	'KP296853|Torque_teno_chlorocebus_virus_3|Chlorocebus_sabaeus|Cercopithecidae'
+	'KP296854|Torque_teno_chlorocebus_virus_5|Chlorocebus_sabaeus|Cercopithecidae'
+	'KP296855|Torque_teno_chlorocebus_virus_4|Chlorocebus_sabaeus|Cercopithecidae'
+	'KP296856|Torque_teno_chlorocebus_virus_2|Chlorocebus_sabaeus|Cercopithecidae'
+	'KP296857|Torque_teno_chlorocebus_virus_1|Chlorocebus_sabaeus|Cercopithecidae'
+	'KR054745|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'KR054746|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'KR054747|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'KR054748|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'KR054749|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'KR054750|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'KR054751|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'KR902501|Torque_teno_equid_virus_1|Equus_caballus|Equidae'
+	'KT027939|Torque_teno_hominid_virus_1|Gorilla_gorilla|Hominidae'
+	'KT037083|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'KT174486|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'KT968712|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'KU041847|Torque_teno_mini_virus_32|Homo_sapiens|Hominidae'
+	'KU156681|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'KU243129|Torque_teno_mini_virus_8|Homo_sapiens|Hominidae'
+	'KX262893|Torque_teno_felid_virus_6|Felis_catus|Felidae'
+	'KX377522|Torque_teno_canid_virus_1|Canis_lupus_familiaris|Canidae'
+	'KX611132|Torque_teno_ursid_virus_1|Ailuropoda_melanoleuca|Ursidae'
+	'KX810063|Torque_teno_mini_virus_23|Homo_sapiens|Hominidae'
+	'KX810064|Torque_teno_mini_virus_29|Homo_sapiens|Hominidae'
+	'KX827767|Torque_teno_canid_virus_1|Canis_lupus_familiaris|Canidae'
+	'KX827768|Torque_teno_canid_virus_1|Canis_lupus_familiaris|Canidae'
+	'KX827769|Torque_teno_canid_virus_1|Canis_lupus_familiaris|Canidae'
+	'KX827770|Torque_teno_canid_virus_1|Canis_lupus_familiaris|Canidae'
+	'KX827771|Torque_teno_canid_virus_1|Canis_lupus_familiaris|Canidae'
+	'KY246476|Torque_teno_pinniped_virus_8|Stercorarius_maccormicki|Stercorariidae'
+	'KY246477|Torque_teno_pinniped_virus_8|Stercorarius_maccormicki|Stercorariidae'
+	'KY246478|Torque_teno_pinniped_virus_8|Stercorarius_maccormicki|Stercorariidae'
+	'KY246479|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246480|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246481|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246482|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246483|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246484|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246485|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246486|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246487|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246488|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246489|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246490|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246491|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246492|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246493|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246494|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246495|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246496|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246497|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246498|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246499|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246500|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246501|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246502|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246503|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246504|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246505|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246506|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246507|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246508|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246509|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246510|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246511|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246512|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246513|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246514|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246515|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246516|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246517|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246518|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246519|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246520|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246521|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246522|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246523|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246524|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246525|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246526|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246527|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246528|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246530|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246531|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246532|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246533|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246534|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246535|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246536|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246538|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246540|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246542|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246543|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246544|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246545|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246546|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246549|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246550|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246552|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246554|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246555|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246557|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246558|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246559|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246561|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246563|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246564|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246566|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246567|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246568|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246569|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246571|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246572|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246574|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246575|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246576|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246577|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246579|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246580|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246582|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246583|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246585|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246586|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246588|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246589|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246591|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246592|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246593|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246594|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246595|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246596|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246597|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246598|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246599|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246600|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246601|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246602|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246603|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246604|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246605|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246606|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246607|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246608|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246609|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246610|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246611|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246612|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246613|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246614|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246615|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246616|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246617|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246618|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246619|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246620|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246621|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246622|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246623|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246624|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246625|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246626|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY246627|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae'
+	'KY368146|Torque_teno_sus_virus_k2b|Sus_scrofa|Suidae'
+	'KY462757|Torque_teno_mini_virus_1|Homo_sapiens|Hominidae'
+	'KY462758|Torque_teno_mini_virus_1|Homo_sapiens|Hominidae'
+	'KY462759|Torque_teno_mini_virus_1|Homo_sapiens|Hominidae'
+	'KY462760|Torque_teno_mini_virus_1|Homo_sapiens|Hominidae'
+	'KY462761|Torque_teno_mini_virus_1|Homo_sapiens|Hominidae'
+	'KY462762|Torque_teno_mini_virus_1|Homo_sapiens|Hominidae'
+	'KY462763|Torque_teno_mini_virus_1|Homo_sapiens|Hominidae'
+	'KY462764|Torque_teno_mini_virus_1|Homo_sapiens|Hominidae'
+	'KY462765|Torque_teno_mini_virus_1|Homo_sapiens|Hominidae'
+	'KY462766|Torque_teno_mini_virus_1|Homo_sapiens|Hominidae'
+	'KY462767|Torque_teno_mini_virus_1|Homo_sapiens|Hominidae'
+	'KY462768|Torque_teno_mini_virus_1|Homo_sapiens|Hominidae'
+	'KY462769|Torque_teno_mini_virus_1|Homo_sapiens|Hominidae'
+	'KY462770|Torque_teno_mini_virus_26|Homo_sapiens|Hominidae'
+	'KY742732|Torque_teno_sus_virus_k2b|Sus_scrofa|Suidae'
+	'KY742733|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'KY742734|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'KY742735|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'KY742736|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'KY742737|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'KY742738|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'KY742739|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'KY742740|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'KY742741|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'KY856742|Torque_teno_mini_virus_13|Homo_sapiens|Hominidae'
+	'LC381845|Torque_teno_mini_virus_36|Homo_sapiens|Hominidae'
+	'LC387536|Torque_teno_viverrid_virus_5|Paguma_larvata|Viverridae'
+	'LC387537|Torque_teno_viverrid_virus_5|Paguma_larvata|Viverridae'
+	'LC387538|Torque_teno_viverrid_virus_5|Paguma_larvata|Viverridae'
+	'LC387539|Torque_teno_viverrid_virus_5|Paguma_larvata|Viverridae'
+	'LC387540|Torque_teno_viverrid_virus_1|Paguma_larvata|Viverridae'
+	'LC387541|Torque_teno_viverrid_virus_5|Paguma_larvata|Viverridae'
+	'LC387542|Torque_teno_viverrid_virus_5|Paguma_larvata|Viverridae'
+	'LC387543|Torque_teno_viverrid_virus_4|Paguma_larvata|Viverridae'
+	'LC387544|Torque_teno_viverrid_virus_4|Paguma_larvata|Viverridae'
+	'LC387545|Torque_teno_viverrid_virus_4|Paguma_larvata|Viverridae'
+	LC387546_Civet
+	LC387547_Civet
+	LC387548_Civet
+	Lp_strain_1[&!name="MK069470_Torque_teno_felid_virus_3_WF10_2"]
+	'MF173068|Torque_teno_arthrovec_virus_3|Dermacentor_variabilis|Ixodidae'
+	'MF187212|Torque_teno_indriid_virus_1|Indri_indri|Indriidae'
+	MF327542_Giant_panda
+	'MF327544|Torque_teno_virus_30|Ailuropoda_melanoleuca|Ursidae'
+	'MF327547|Torque_teno_ursid_virus_12|Ailuropoda_melanoleuca|Ursidae'
+	'MF327548|Torque_teno_ursid_virus_11|Ailuropoda_melanoleuca|Ursidae'
+	'MF327549|Torque_teno_ursid_virus_11|Ailuropoda_melanoleuca|Ursidae'
+	'MF327551|Torque_teno_ursid_virus_2|Ailuropoda_melanoleuca|Ursidae'
+	'MF327552|Torque_teno_ursid_virus_3|Ailuropoda_melanoleuca|Ursidae'
+	'MF327553|Torque_teno_ursid_virus_10|Ailuropoda_melanoleuca|Ursidae'
+	'MF327554|Torque_teno_ursid_virus_4|Ailuropoda_melanoleuca|Ursidae'
+	'MF327555|Torque_teno_ursid_virus_4|Ailuropoda_melanoleuca|Ursidae'
+	'MF327556|Torque_teno_ursid_virus_4|Ailuropoda_melanoleuca|Ursidae'
+	'MF327557|Torque_teno_ursid_virus_5|Ailuropoda_melanoleuca|Ursidae'
+	'MF541374|Torque_teno_rodent_virus_2|Akodon_montensis|Cricetidae'
+	'MF541375|Torque_teno_rodent_virus_2|Oligoryzomys_nigripes|Cricetidae'
+	'MF541376|Torque_teno_rodent_virus_2|Bolomys_lasiurus|Cricetidae'
+	'MF541377|Torque_teno_rodent_virus_2|Akodon_montensis|Cricetidae'
+	'MF541378|Torque_teno_didelphi_virus_1|Didelphis_albiventris|Didelphidae'
+	'MF541379|Torque_teno_rodent_virus_2|Bolomys_lasiurus|Cricetidae'
+	'MF541380|Torque_teno_rodent_virus_2|Bolomys_lasiurus|Cricetidae'
+	'MF541381|Torque_teno_rodent_virus_2|Bolomys_lasiurus|Cricetidae'
+	'MF541382|Torque_teno_rodent_virus_2|Mus_musculus|Muridae'
+	'MF541383|Torque_teno_rodent_virus_2|Calomys_tener|Cricetidae'
+	'MF541384|Torque_teno_rodent_virus_2|Bolomys_lasiurus|Cricetidae'
+	'MF541385|Torque_teno_rodent_virus_2|Bolomys_lasiurus|Cricetidae'
+	'MF541386|Torque_teno_chiroptera_virus_1|Desmodus_rotundus|Phyllostomidae'
+	'MF541387|Torque_teno_rodent_virus_2|Oligoryzomys_nigripes|Cricetidae'
+	'MF541388|Torque_teno_rodent_virus_3|Akodon_montensis|Cricetidae'
+	'MF541389|Torque_teno_rodent_virus_6|Oligoryzomys_nigripes|Cricetidae'
+	'MF688246|Torque_teno_rodent_virus_5|Rattus_norvegicus|Muridae'
+	'MH017546|Torque_teno_mini_virus_14|Homo_sapiens|Hominidae'
+	'MH017547|Torque_teno_mini_virus_14|Homo_sapiens|Hominidae'
+	'MH017548|Torque_teno_mini_virus_14|Homo_sapiens|Hominidae'
+	'MH017549|Torque_teno_mini_virus_14|Homo_sapiens|Hominidae'
+	'MH017550|Torque_teno_mini_virus_14|Homo_sapiens|Hominidae'
+	'MH017551|Torque_teno_mini_virus_14|Homo_sapiens|Hominidae'
+	'MH017552|Torque_teno_mini_virus_14|Homo_sapiens|Hominidae'
+	'MH017553|Torque_teno_mini_virus_14|Homo_sapiens|Hominidae'
+	'MH017554|Torque_teno_mini_virus_14|Homo_sapiens|Hominidae'
+	'MH017555|Torque_teno_mini_virus_14|Homo_sapiens|Hominidae'
+	'MH017556|Torque_teno_mini_virus_5|Homo_sapiens|Hominidae'
+	'MH017557|Torque_teno_mini_virus_5|Homo_sapiens|Hominidae'
+	'MH017558|Torque_teno_mini_virus_5|Homo_sapiens|Hominidae'
+	'MH017559|Torque_teno_mini_virus_5|Homo_sapiens|Hominidae'
+	'MH017560|Torque_teno_mini_virus_5|Homo_sapiens|Hominidae'
+	'MH017561|Torque_teno_mini_virus_5|Homo_sapiens|Hominidae'
+	'MH017562|Torque_teno_mini_virus_5|Homo_sapiens|Hominidae'
+	'MH017563|Torque_teno_mini_virus_28|Homo_sapiens|Hominidae'
+	'MH017564|Torque_teno_mini_virus_28|Homo_sapiens|Hominidae'
+	'MH017565|Torque_teno_mini_virus_28|Homo_sapiens|Hominidae'
+	'MH017566|Torque_teno_mini_virus_28|Homo_sapiens|Hominidae'
+	'MH017567|Torque_teno_mini_virus_28|Homo_sapiens|Hominidae'
+	'MH017568|Torque_teno_mini_virus_28|Homo_sapiens|Hominidae'
+	'MH017569|Torque_teno_mini_virus_28|Homo_sapiens|Hominidae'
+	'MH017570|Torque_teno_virus_1|Homo_sapiens|Hominidae'
+	'MH017571|Torque_teno_virus_1|Homo_sapiens|Hominidae'
+	'MH017572|Torque_teno_virus_1|Homo_sapiens|Hominidae'
+	'MH017573|Torque_teno_virus_1|Homo_sapiens|Hominidae'
+	'MH017574|Torque_teno_virus_1|Homo_sapiens|Hominidae'
+	'MH017575|Torque_teno_virus_1|Homo_sapiens|Hominidae'
+	'MH017576|Torque_teno_virus_1|Homo_sapiens|Hominidae'
+	'MH017577|Torque_teno_virus_1|Homo_sapiens|Hominidae'
+	'MH017578|Torque_teno_virus_1|Homo_sapiens|Hominidae'
+	'MH017579|Torque_teno_virus_1|Homo_sapiens|Hominidae'
+	'MH017580|Torque_teno_virus_1|Homo_sapiens|Hominidae'
+	'MH017581|Torque_teno_virus_1|Homo_sapiens|Hominidae'
+	'MH017582|Torque_teno_virus_1|Homo_sapiens|Hominidae'
+	'MH017583|Torque_teno_virus_1|Homo_sapiens|Hominidae'
+	'MH017584|Torque_teno_virus_1|Homo_sapiens|Hominidae'
+	'MH017585|Torque_teno_virus_1|Homo_sapiens|Hominidae'
+	'MH017586|Torque_teno_virus_1|Homo_sapiens|Hominidae'
+	'MH017587|Torque_teno_virus_1|Homo_sapiens|Hominidae'
+	'MH170062|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'MH170063|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'MH170064|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'MH170065|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'MH170066|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'MH170067|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'MH170068|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'MH170069|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'MH170070|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'MH170071|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'MH170072|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'MH170073|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'MH469990|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'MH648892|Torque_teno_mini_virus_19|Homo_sapiens|Hominidae'
+	'MH648893|Torque_teno_virus_18|Homo_sapiens|Hominidae'
+	'MH648897|Torque_teno_mini_virus_6|Homo_sapiens|Hominidae'
+	'MH648900|Torque_teno_mini_virus_36|Homo_sapiens|Hominidae'
+	'MH648901|Torque_teno_virus_3|Homo_sapiens|Hominidae'
+	'MH648907|Torque_teno_mini_virus_17|Homo_sapiens|Hominidae'
+	'MH648912|Torque_teno_mini_virus_30|Homo_sapiens|Hominidae'
+	'MH648913|Torque_teno_virus_29|Homo_sapiens|Hominidae'
+	'MH648916|Torque_teno_virus_18|Homo_sapiens|Hominidae'
+	'MH648925|Torque_teno_virus_24|Homo_sapiens|Hominidae'
+	'MH648932|Torque_teno_virus_15|Homo_sapiens|Hominidae'
+	'MH648946|Torque_teno_virus_29|Homo_sapiens|Hominidae'
+	'MH648958|Torque_teno_virus_3|Homo_sapiens|Hominidae'
+	'MH648959|Torque_teno_virus_17|Homo_sapiens|Hominidae'
+	'MH648962|Torque_teno_virus_29|Homo_sapiens|Hominidae'
+	'MH648966|Torque_teno_mini_virus_35|Homo_sapiens|Hominidae'
+	'MH648969|Torque_teno_virus_24|Homo_sapiens|Hominidae'
+	'MH648976|Torque_teno_virus_24|Homo_sapiens|Hominidae'
+	'MH648977|Torque_teno_mini_virus_1|Homo_sapiens|Hominidae'
+	'MH648982|Torque_teno_mini_virus_38|Homo_sapiens|Hominidae'
+	'MH648983|Torque_teno_mini_virus_36|Homo_sapiens|Hominidae'
+	'MH648985|Torque_teno_mini_virus_36|Homo_sapiens|Hominidae'
+	'MH648986|Torque_teno_mini_virus_39|Homo_sapiens|Hominidae'
+	'MH648989|Torque_teno_mini_virus_20|Homo_sapiens|Hominidae'
+	'MH648990|Torque_teno_virus_29|Homo_sapiens|Hominidae'
+	'MH648995|Torque_teno_virus_24|Homo_sapiens|Hominidae'
+	'MH648997|Torque_teno_virus_18|Homo_sapiens|Hominidae'
+	'MH648999|Torque_teno_mini_virus_6|Homo_sapiens|Hominidae'
+	'MH649002|Torque_teno_mini_virus_6|Homo_sapiens|Hominidae'
+	'MH649006|Torque_teno_mini_virus_6|Homo_sapiens|Hominidae'
+	'MH649008|Torque_teno_virus_24|Homo_sapiens|Hominidae'
+	'MH649009|Torque_teno_mini_virus_9|Homo_sapiens|Hominidae'
+	'MH649011|Torque_teno_mini_virus_1|Homo_sapiens|Hominidae'
+	'MH649014|Torque_teno_virus_24|Homo_sapiens|Hominidae'
+	'MH649017|Torque_teno_mini_virus_31|Homo_sapiens|Hominidae'
+	'MH649022|Torque_teno_virus_5|Homo_sapiens|Hominidae'
+	'MH649023|Torque_teno_mini_virus_32|Homo_sapiens|Hominidae'
+	'MH649028|Torque_teno_mini_virus_36|Homo_sapiens|Hominidae'
+	'MH649039|Torque_teno_virus_14|Homo_sapiens|Hominidae'
+	'MH649040|Torque_teno_mini_virus_9|Homo_sapiens|Hominidae'
+	'MH649042|Torque_teno_virus_20|Homo_sapiens|Hominidae'
+	'MH649045|Torque_teno_mini_virus_9|Homo_sapiens|Hominidae'
+	'MH649051|Torque_teno_mini_virus_2|Homo_sapiens|Hominidae'
+	'MH649056|Torque_teno_mini_virus_20|Homo_sapiens|Hominidae'
+	'MH649061|Torque_teno_mini_virus_27|Homo_sapiens|Hominidae'
+	'MH649062|Torque_teno_virus_21|Homo_sapiens|Hominidae'
+	'MH649063|Torque_teno_virus_9|Homo_sapiens|Hominidae'
+	'MH649068|Torque_teno_mini_virus_27|Homo_sapiens|Hominidae'
+	'MH649070|Torque_teno_virus_29|Homo_sapiens|Hominidae'
+	'MH649077|Torque_teno_mini_virus_1|Homo_sapiens|Hominidae'
+	'MH649083|Torque_teno_mini_virus_38|Homo_sapiens|Hominidae'
+	'MH649084|Torque_teno_mini_virus_20|Homo_sapiens|Hominidae'
+	'MH649092|Torque_teno_virus_3|Homo_sapiens|Hominidae'
+	'MH649101|Torque_teno_mini_virus_20|Homo_sapiens|Hominidae'
+	'MH649104|Torque_teno_mini_virus_32|Homo_sapiens|Hominidae'
+	'MH649106|Torque_teno_mini_virus_6|Homo_sapiens|Hominidae'
+	'MH649113|Torque_teno_virus_21|Homo_sapiens|Hominidae'
+	'MH649114|Torque_teno_mini_virus_34|Homo_sapiens|Hominidae'
+	'MH649122|Torque_teno_virus_14|Homo_sapiens|Hominidae'
+	'MH649125|Torque_teno_mini_virus_9|Homo_sapiens|Hominidae'
+	'MH649127|Torque_teno_mini_virus_8|Homo_sapiens|Hominidae'
+	'MH649137|Torque_teno_virus_14|Homo_sapiens|Hominidae'
+	'MH649141|Torque_teno_mini_virus_24|Homo_sapiens|Hominidae'
+	'MH649142|Torque_teno_virus_24|Homo_sapiens|Hominidae'
+	'MH649144|Torque_teno_virus_29|Homo_sapiens|Hominidae'
+	'MH649152|Torque_teno_mini_virus_28|Homo_sapiens|Hominidae'
+	'MH649156|Torque_teno_virus_3|Homo_sapiens|Hominidae'
+	'MH649157|Torque_teno_mini_virus_9|Homo_sapiens|Hominidae'
+	'MH649158|Torque_teno_virus_21|Homo_sapiens|Hominidae'
+	'MH649161|Torque_teno_mini_virus_20|Homo_sapiens|Hominidae'
+	'MH649165|Torque_teno_mini_virus_2|Homo_sapiens|Hominidae'
+	'MH649169|Torque_teno_virus_21|Homo_sapiens|Hominidae'
+	'MH649172|Torque_teno_mini_virus_9|Homo_sapiens|Hominidae'
+	'MH649174|Torque_teno_mini_virus_9|Homo_sapiens|Hominidae'
+	'MH649178|Torque_teno_virus_20|Homo_sapiens|Hominidae'
+	'MH649179|Torque_teno_virus_24|Homo_sapiens|Hominidae'
+	'MH649183|Torque_teno_mini_virus_9|Homo_sapiens|Hominidae'
+	'MH649186|Torque_teno_mini_virus_27|Homo_sapiens|Hominidae'
+	'MH649189|Torque_teno_mini_virus_9|Homo_sapiens|Hominidae'
+	'MH649196|Torque_teno_mini_virus_9|Homo_sapiens|Hominidae'
+	'MH649199|Torque_teno_mini_virus_33|Homo_sapiens|Hominidae'
+	'MH649203|Torque_teno_virus_9|Homo_sapiens|Hominidae'
+	'MH649204|Torque_teno_mini_virus_26|Homo_sapiens|Hominidae'
+	'MH649206|Torque_teno_mini_virus_36|Homo_sapiens|Hominidae'
+	'MH649208|Torque_teno_virus_3|Homo_sapiens|Hominidae'
+	'MH649209|Torque_teno_mini_virus_37|Homo_sapiens|Hominidae'
+	'MH649210|Torque_teno_virus_19|Homo_sapiens|Hominidae'
+	'MH649212|Torque_teno_mini_virus_31|Homo_sapiens|Hominidae'
+	'MH649217|Torque_teno_mini_virus_2|Homo_sapiens|Hominidae'
+	'MH649223|Torque_teno_mini_virus_38|Homo_sapiens|Hominidae'
+	'MH649224|Torque_teno_mini_virus_9|Homo_sapiens|Hominidae'
+	'MH649228|Torque_teno_mini_virus_9|Homo_sapiens|Hominidae'
+	'MH649229|Torque_teno_mini_virus_1|Homo_sapiens|Hominidae'
+	'MH649241|Torque_teno_mini_virus_20|Homo_sapiens|Hominidae'
+	'MH649242|Torque_teno_virus_3|Homo_sapiens|Hominidae'
+	'MH649254|Torque_teno_mini_virus_1|Homo_sapiens|Hominidae'
+	'MH649255|Torque_teno_virus_29|Homo_sapiens|Hominidae'
+	'MH649256|Torque_teno_virus_24|Homo_sapiens|Hominidae'
+	'MH649258|Torque_teno_virus_3|Homo_sapiens|Hominidae'
+	'MH649263|Torque_teno_mini_virus_10|Homo_sapiens|Hominidae'
+	'MH760402|unclassified|Sapajus_nigritus|Cebidae'
+	'MK012439|Torque_teno_procyo_virus_6|Procyon_lotor|Procyonidae'
+	'MK012440|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'MK012448|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'MK012457|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'MK012458|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'MK012482|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'MK012485|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'MK012489|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'MK012492|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'MK012493|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'MK012500|Torque_teno_procyo_virus_5|Procyon_lotor|Procyonidae'
+	'MK012504|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'MK012516|Torque_teno_procyo_virus_4|Procyon_lotor|Procyonidae'
+	'MK050987|Torque_teno_canid_virus_1|Canis_lupus_familiaris|Canidae'
+	'MK050988|Torque_teno_canid_virus_1|Canis_lupus_familiaris|Canidae'
+	MK069470_Torque_teno_felid_virus_3_WF10_2[&!name="Lp_strain_1"]
+	'MK139485|Torque_teno_mini_virus_15|Homo_sapiens|Hominidae'
+	'MK212029|Torque_teno_mini_virus_1|Homo_sapiens|Hominidae'
+	'MK212030|Torque_teno_mini_virus_26|Homo_sapiens|Hominidae'
+	'MK212031|Torque_teno_mini_virus_22|Homo_sapiens|Hominidae'
+	'MK212032|Torque_teno_hominid_virus_2|Homo_sapiens|Hominidae'
+	'MK452763|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'MK452764|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'MK452765|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'MK452766|Torque_teno_virus_15|Sus_scrofa|Suidae'
+	'MK452767|Torque_teno_virus_15|Sus_scrofa|Suidae'
+	'MK820644|Torque_teno_virus_2|Homo_sapiens|Hominidae'
+	'MK820645|Torque_teno_virus_24|Homo_sapiens|Hominidae'
+	'MK820646|Torque_teno_virus_18|Homo_sapiens|Hominidae'
+	'MK872392|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'MK990454|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'MN272071|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	'MN272072|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae'
+	'MN272073|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae'
+	MT537965_ORF1_TTFV
+	MT537966_ORF1_TTFV
+	MT537967_ORF1_TTFV
+	MT537968_ORF1_TTFV
+	MT537969_ORF1_TTFV
+	MT537970_ORF1_TTFV
+	MT537971_ORF1_TTFV
+	MT537972_ORF1_TTFV
+	MT537973_ORF1_TTFV
+	MT537974_ORF1_TTFV
+	MT537975_ORF1_TTFV
+	MT537976_ORF1_TTFV
+	MT537977_ORF1_TTFV
+	MT537978_ORF1_TTFV
+	MT537979_ORF1_TTFV
+	MT537980_ORF1_TTFV
+	MT537981_ORF1_TTFV
+	MT537982_ORF1_TTFV
+	MT537983_ORF1_TTFV
+	MT537984_ORF1_TTFV
+	MT537985_ORF1_TTFV
+	MT537986_ORF1_TTFV
+	MT537987_ORF1_TTFV
+	MT537988_ORF1_TTFV
+	MT537989_ORF1_TTFV
+	MT537990_ORF1_TTFV
+	MT537991_ORF1_TTFV
+	MT537992_ORF1_TTFV
+	MT537993_ORF1_TTFV
+	MT537994_ORF1_TTFV
+	MT537995_ORF1_TTFV
+	MT537996_ORF1_TTFV
+	MT537997_ORF1_TTFV
+	MT537998_ORF1_TTFV
+	MT537999_ORF1_TTFV
+	MT538000_ORF1_TTFV
+	MT538001_ORF1_TTFV
+	MT538002_ORF1_TTFV
+	MT538003_ORF1_TTFV
+	MT538004_ORF1_TTFV
+	MT538005_ORF1_TTFV
+	MT538006_ORF1_TTFV
+	MT538007_ORF1_TTFV
+	MT538008_ORF1_TTFV
+	MT538009_ORF1_TTFV
+	MT538010_ORF1_TTFV
+	MT538011_ORF1_TTFV
+	MT538012_ORF1_TTFV
+	MT538013_ORF1_TTFV
+	MT538014_ORF1_TTFV
+	MT538015_ORF1_TTFV
+	MT538016_ORF1_TTFV
+	MT538017_ORF1_TTFV
+	MT538018_ORF1_TTFV
+	MT538019_ORF1_TTFV
+	MT538020_ORF1_TTFV
+	MT538021_ORF1_TTFV
+	MT538022_ORF1_TTFV
+	MT538023_ORF1_TTFV
+	MT538024_ORF1_TTFV
+	MT538025_ORF1_TTFV
+	MT538026_ORF1_TTFV
+	MT538027_ORF1_TTFV
+	MT538028_ORF1_TTFV
+	MT538029_ORF1_TTFV
+	MT538030_ORF1_TTFV
+	MT538031_ORF1_TTFV
+	MT538032_ORF1_TTFV
+	MT538033_ORF1_TTFV
+	MT538034_ORF1_TTFV
+	MT538035_ORF1_TTFV
+	MT538036_ORF1_TTFV
+	MT538037_ORF1_TTFV
+	MT538038_ORF1_TTFV
+	MT538039_ORF1_TTFV
+	MT538040_ORF1_TTFV
+	MT538041_ORF1_TTFV
+	MT538042_ORF1_TTFV
+	MT538043_ORF1_TTFV
+	MT538044_ORF1_TTFV
+	MT538045_ORF1_TTFV
+	MT538046_ORF1_TTFV
+	MT538047_ORF1_TTFV
+	MT538048_ORF1_TTFV
+	MT538049_ORF1_TTFV
+	MT538050_ORF1_TTFV
+	MT538051_ORF1_TTFV
+	MT538052_ORF1_TTFV
+	MT538053_ORF1_TTFV
+	MT538054_ORF1_TTFV
+	MT538055_ORF1_TTFV
+	MT538056_ORF1_TTFV
+	MT538057_ORF1_TTFV
+	MT538058_ORF1_TTFV
+	MT538059_ORF1_TTFV
+	MT538060_ORF1_TTFV
+	MT538061_ORF1_TTFV
+	MT538062_ORF1_TTFV
+	MT538063_ORF1_TTFV
+	MT538064_ORF1_TTFV
+	MT538065_ORF1_TTFV
+	MT538066_ORF1_TTFV
+	MT538067_ORF1_TTFV
+	MT538068_ORF1_TTFV
+	MT538069_ORF1_TTFV
+	MT538070_ORF1_TTFV
+	MT538071_ORF1_TTFV
+	MT538072_ORF1_TTFV
+	MT538073_ORF1_TTFV
+	MT538074_ORF1_TTFV
+	MT538075_ORF1_TTFV
+	MT538076_ORF1_TTFV
+	MT538077_ORF1_TTFV
+	MT538078_ORF1_TTFV
+	MT538079_ORF1_TTFV
+	MT538080_ORF1_TTFV
+	MT538081_ORF1_TTFV
+	MT538082_ORF1_TTFV
+	MT538083_ORF1_TTFV
+	MT538084_ORF1_TTFV
+	MT538085_ORF1_TTFV
+	MT538086_ORF1_TTFV
+	MT538087_ORF1_TTFV
+	MT538088_ORF1_TTFV
+	MT538089_ORF1_TTFV
+	MT538090_ORF1_TTFV
+	MT538091_ORF1_TTFV
+	MT538092_ORF1_TTFV
+	MT538093_ORF1_TTFV
+	MT538094_ORF1_TTFV
+	MT538095_ORF1_TTFV
+	MT538096_ORF1_TTFV
+	MT538097_ORF1_TTFV
+	MT538098_ORF1_TTFV
+	MT538099_ORF1_TTFV
+	MT538100_ORF1_TTFV
+	MT538101_ORF1_TTFV
+	MT538102_ORF1_TTFV
+	MT538103_ORF1_TTFV
+	MT538104_ORF1_TTFV
+	MT538105_ORF1_TTFV
+	MT538106_ORF1_TTFV
+	MT538107_ORF1_TTFV
+	MT538108_ORF1_TTFV
+	MT538109_ORF1_TTFV
+	MT538110_ORF1_TTFV
+	MT538111_ORF1_TTFV
+	MT538112_ORF1_TTFV
+	MT538113_ORF1_TTFV
+	MT538114_ORF1_TTFV
+	MT538115_ORF1_TTFV
+	MT538116_ORF1_TTFV
+	MT538117_ORF1_TTFV
+	MT538118_ORF1_TTFV
+	MT538119_ORF1_TTFV
+	MT538120_ORF1_TTFV
+	MT538121_ORF1_TTFV
+	MT538122_ORF1_TTFV
+	MT538123_ORF1_TTFV
+	MT538124_ORF1_TTFV
+	MT538125_ORF1_TTFV
+	MT538126_ORF1_TTFV
+	MT538127_ORF1_TTFV
+	MT538128_ORF1_TTFV
+	MT538129_ORF1_TTFV
+	MT538130_ORF1_TTFV
+	MT538131_ORF1_TTFV
+	MT538132_ORF1_TTFV
+	MT538133_ORF1_TTFV
+	MT538134_ORF1_TTFV
+	MT538135_ORF1_TTFV
+	MT538136_ORF1_TTFV
+	MT538137_ORF1_TTFV
+	MT538138_ORF1_TTFV
+	MT538139_ORF1_TTFV
+	MT538140_ORF1_TTFV
+	MT538141_ORF1_TTFV
+	MT538142_ORF1_TTFV
+	MT538143_ORF1_TTFV
+	MT538144_ORF1_TTFV
+	MT538145_ORF1_TTFV
+	MT538146_ORF1_TTFV
+	MT538147_ORF1_TTFV
+	MT538148_ORF1_TTFV
+	MT538149_ORF1_TTFV
+	MT538150_ORF1_TTFV
+	MT538151_ORF1_TTFV
+	MT538152_ORF1_TTFV
+	MT538153_ORF1_TTFV
+	MT538154_ORF1_TTFV
+	MT538155_ORF1_TTFV
+	MT538156_ORF1_TTFV
+	MT538157_ORF1_TTFV
+	MT538158_ORF1_TTFV
+	MT538159_ORF1_TTFV
+	MT538160_ORF1_TTFV
+	MT538161_ORF1_TTFV
+	MT538162_ORF1_TTFV
+	MT538163_ORF1_TTFV
+	MT538164_ORF1_TTFV
+	MT538165_ORF1_TTFV
+	MT538166_ORF1_TTFV
+	MT538167_ORF1_TTFV
+	MT538168_ORF1_TTFV
+	MT538169_ORF1_TTFV
+	MT538170_ORF1_TTFV
+	MT538171_ORF1_TTFV
+	MT538172_ORF1_TTFV
+	MT538173_ORF1_TTFV
+	MT538174_ORF1_TTFV
+	MT538175_ORF1_TTFV
+	MT538176_ORF1_TTFV
+	MT538177_ORF1_TTFV
+	MT538178_ORF1_TTFV
+	MT538179_ORF1_TTFV
+	MT538180_ORF1_TTFV
+	MT538181_ORF1_TTFV
+	MT538182_ORF1_TTFV
+	MT538183_ORF1_TTFV
+	MT538184_ORF1_TTFV
+	NC_015212_Seal_harbor
+	'OM416781|Epsilontorquevirus_callithrichensis_I'
+	'OM416782|Epsilontorquevirus_callithrichensis_II'
+	'OM416783|Epsilontorquevirus_callithrichensis_I'
+	'OM416784|Epsilontorquevirus_callithrichensis_I'
+	'OM416785|Epsilontorquevirus_callithrichensis_I'
+	'OM416786|Epsilontorquevirus_callithrichensis_II'
+	'OM416787|Epsilontorquevirus_callithrichensis_II'
+	'OM416788|Epsilontorquevirus_callithrichensis_II'
+	'OM416789|Epsilontorquevirus_callithrichensis_II'
+	'OM416790|Epsilontorquevirus_callithrichensis_II'
+	'OM416791|Epsilontorquevirus_callithrichensis_II'
+	'OM416792|Epsilontorquevirus_callithrichensis_II'
+	'OM416793|Epsilontorquevirus_callithrichensis_II'
+	'OM416794|Epsilontorquevirus_callithrichensis_II'
+	'OM416795|Epsilontorquevirus_callithrichensis_II'
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] (Lp_strain_1:0.265509,((((((((((((((((MK069470_Torque_teno_felid_virus_3_WF10_2:0.682625,((KM229765_Cat:0.035165,(HM142588_Cat:0.016439,(AB076003_Torque_teno_felid_virus_1:0.032058,((KM229764_Cat:0.033589,(KM593801_Cat:0.003389,EF538878_Cat:0.006671)[&label="96.7/100"]:0.016988)[&label="89.7/100"]:0.01215,HM142589_Cat:0.080142)[&label="78.4/77"]:0.010101)[&label="27.6/77"]:0.00704)[&label="94.5/91"]:0.024881)[&label="89.2/100"]:0.051928,KM229766_Cat:0.122705)[&label="100/100"]:0.518501)[&label="98/100"]:0.265397,LC387548_Civet:0.927674)[&label="98.3/100"]:0.265549,(((FJ459582_Sea_lion:1.140043,((KF373760_Seal_harbor:0.870424,(NC_015212_Seal_harbor:1.0E-6,HQ287751_Seal_harbor:1.0E-6)[&label="100/100"]:0.867855)[&label="81.9/99"]:0.167251,((((((((('KY246476|Torque_teno_pinniped_virus_8|Stercorarius_maccormicki|Stercorariidae':0.004738,(((('KY246521|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.020198,'KY246571|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.00585)[&label="8.1/99"]:0.009281,('KY246576|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.016497,'KY246596|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.038078)[&label="94.1/100"]:0.017585)[&label="97/100"]:0.018906,((('KY246609|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.014353,'KY246610|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.009431)[&label="95.9/100"]:0.015571,'KY246612|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.007147)[&label="99.1/100"]:0.027256,'KY246615|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.036519)[&label="75.4/94"]:0.003344)[&label="85.3/94"]:0.006796,'KY246557|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.033857)[&label="74.4/98"]:0.015205)[&label="100/100"]:0.133413,('KY246492|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.014618,('KY246594|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.029736,'KY246595|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.079438)[&label="70.1/100"]:0.0118)[&label="100/100"]:0.152219)[&label="70/100"]:0.045634,((((('KY246483|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.002334,'KY246613|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.030522)[&label="99.7/100"]:0.031314,'KY246600|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.014646)[&label="81.7/100"]:0.040024,'KY246619|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.021141)[&label="100/100"]:0.12455,(('KY246486|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.002252,(('KY246568|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.046363,'KY246598|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.02031)[&label="56.6/100"]:0.010468,'KY246618|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.077962)[&label="46.5/91"]:0.022603)[&label="99.9/100"]:0.058753,'KY246487|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.029958)[&label="100/100"]:0.117163)[&label="16.2/77"]:0.02967,('KY246554|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.025223,'KY246617|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.017506)[&label="100/100"]:0.117416)[&label="100/100"]:0.101559)[&label="90.3/100"]:0.048761,(('KY246481|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.037233,'KY246485|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.019047)[&label="0/17"]:0.001182,'KY246508|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.039781)[&label="100/100"]:0.254039)[&label="95.5/100"]:0.080125,((('KY246495|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.014087,'KY246502|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.022645)[&label="88.1/100"]:0.012251,'KY246505|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.009172)[&label="97.6/100"]:0.062405,('KY246522|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':1.0E-6,'KY246599|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.002397)[&label="100/100"]:0.144406)[&label="100/100"]:0.34576)[&label="85.9/94"]:0.053149,((((('KY246478|Torque_teno_pinniped_virus_8|Stercorarius_maccormicki|Stercorariidae':0.029397,'KY246513|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.012419)[&label="99/100"]:0.052694,'KY246542|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.041194)[&label="99.9/100"]:0.106009,'KY246611|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.195029)[&label="97.1/100"]:0.05843,(((('KY246484|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.02127,'KY246500|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.029987)[&label="95.3/100"]:0.024957,'KY246606|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.050957)[&label="100/100"]:0.199398,('KY246506|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.122802,'KY246623|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.16694)[&label="84.6/100"]:0.039523)[&label="0/39"]:0.02357,('KY246503|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.147114,'KY246572|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.109767)[&label="98.4/100"]:0.061107)[&label="100/100"]:0.096024)[&label="96.2/100"]:0.072772,(((('KY246488|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.078301,'KY246504|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.087919)[&label="100/100"]:0.122893,'KY246498|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.150744)[&label="92.9/99"]:0.075408,'KY246624|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.07944)[&label="99.9/100"]:0.147928,((('KY246494|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':1.0E-6,'KY246616|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':1.0E-6)[&label="85/100"]:0.002325,'KY246501|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':1.0E-6)[&label="91.3/100"]:0.020028,'KY246526|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.008444)[&label="100/100"]:0.270107)[&label="95.3/100"]:0.078765)[&label="36.9/92"]:0.038146)[&label="99.9/99"]:0.129527,(((('KY246480|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.009504,'KY246607|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.014219)[&label="44.3/81"]:0.007421,'KY246621|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.01159)[&label="100/100"]:0.089915,'KY246517|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.097568)[&label="33.8/98"]:0.040263,(('KY246516|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.027519,'KY246582|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.003657)[&label="74.7/99"]:0.006805,'KY246622|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.009362)[&label="99.8/100"]:0.095497)[&label="100/100"]:0.237924)[&label="88.8/97"]:0.060554,(((((((((((('KY246477|Torque_teno_pinniped_virus_8|Stercorarius_maccormicki|Stercorariidae':0.044892,('KY246563|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.004547,'KY246566|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.010825)[&label="51.9/100"]:0.006475)[&label="88.1/80"]:0.009158,('KY246482|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.041268,'KY246536|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.04313)[&label="7.6/67"]:0.003041)[&label="0/63"]:2.0E-6,'KY246580|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.016362)[&label="77.8/62"]:0.004559,('KY246515|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.006845,'KY246625|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':1.0E-6)[&label="99.5/100"]:0.02616)[&label="7.2/60"]:0.008946,'KY246555|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.0193)[&label="99/100"]:0.056837,'KY246510|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.128521)[&label="43.9/93"]:0.035959,(((('KY246479|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.032514,'KY246509|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.025213)[&label="30.7/62"]:0.004005,'KY246601|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.036416)[&label="35.2/94"]:0.005354,('KY246540|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.022624,'KY246608|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.03774)[&label="67.9/94"]:0.012846)[&label="89.4/96"]:0.012013,('KY246592|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.009204,'KY246627|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.020941)[&label="96.9/100"]:0.019327)[&label="98.4/100"]:0.048009)[&label="98.7/100"]:0.069457,((('KY246497|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.027014,'KY246597|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.007808)[&label="83/99"]:0.00635,('KY246544|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.016678,'KY246549|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.028887)[&label="98.5/100"]:0.02172)[&label="99.9/100"]:0.064769,'KY246577|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.031644)[&label="100/100"]:0.158604)[&label="61.2/83"]:0.031041,'KY246567|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.173991)[&label="86.2/92"]:0.055227,((('KY246490|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.031405,'KY246511|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.038553)[&label="100/100"]:0.142628,(((((('KY246507|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.023185,'KY246514|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.012494)[&label="20.4/95"]:0.008699,'KY246620|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.022629)[&label="95.3/100"]:0.020293,('KY246520|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.022064,'KY246614|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.036807)[&label="91.2/97"]:0.012438)[&label="58.7/90"]:0.010411,'KY246575|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.026423)[&label="93.4/99"]:0.021059,((('KY246519|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.031157,'KY246530|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.013807)[&label="81.7/100"]:0.01097,'KY246591|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.045751)[&label="45.4/91"]:0.010949,'KY246532|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.017131)[&label="91.3/98"]:0.017515)[&label="44.2/98"]:0.016456,'KY246588|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.054791)[&label="100/100"]:0.097947)[&label="100/100"]:0.132358,((('KY246491|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.042517,'KY246512|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.030386)[&label="41.7/61"]:0.001981,('KY246533|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.022774,'KY246603|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.017152)[&label="88.7/98"]:0.012972)[&label="86/62"]:0.017678,'KY246626|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.012857)[&label="100/100"]:0.165648)[&label="96.7/100"]:0.071993)[&label="72.5/96"]:0.068664,'KY246605|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.266379)[&label="98/100"]:0.070744,(((((((('KY246489|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':3.0E-6,'KY246602|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.002357)[&label="23.2/96"]:0.005507,'KY246586|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.01836)[&label="97.5/100"]:0.014768,'KY246593|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.01235)[&label="83.6/99"]:0.00628,('KY246493|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.05132,((((('KY246525|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.039372,'KY246546|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.033673)[&label="94.4/98"]:0.015381,'KY246574|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.021627)[&label="75.4/96"]:0.003333,(('KY246528|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.01532,'KY246583|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.018973)[&label="80.4/93"]:0.006108,('KY246534|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.007163,('KY246545|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':1.0E-6,'KY246550|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':1.0E-6)[&label="78.6/100"]:0.002406)[&label="93.9/100"]:0.011801)[&label="53.3/93"]:0.006543)[&label="92/100"]:0.015703,'KY246564|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.020632)[&label="99.9/100"]:0.038136,('KY246559|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.029507,'KY246589|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.016919)[&label="87/100"]:0.009374)[&label="87.4/97"]:0.007787)[&label="87/96"]:0.007572)[&label="98.4/96"]:0.020066,'KY246569|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.016759)[&label="57.3/96"]:0.006429,'KY246561|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.011937)[&label="99.8/100"]:0.132355,((('KY246499|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.018995,'KY246558|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.019569)[&label="93.4/88"]:0.013594,'KY246552|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.009347)[&label="69.3/88"]:0.012939,'KY246604|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.030079)[&label="99.9/100"]:0.103292)[&label="98.2/100"]:0.106925,(('KY246527|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.022346,'KY246531|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.027359)[&label="97.5/100"]:0.033276,('KY246535|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.025019,'KY246543|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.020931)[&label="69.8/100"]:0.021935)[&label="100/100"]:0.211408)[&label="100/100"]:0.222308)[&label="93.7/99"]:0.062427)[&label="97.3/98"]:0.115046,((('KY246496|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.347897,(('KY246523|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.015465,'KY246524|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.030976)[&label="96.4/100"]:0.048456,'KY246538|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.092386)[&label="94.7/100"]:0.070006)[&label="34.5/73"]:0.078023,'KY246585|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.164788)[&label="99.7/100"]:0.195476,('KY246518|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.0555,'KY246579|Torque_teno_pinniped_virus_8|Leptonychotes_weddellii|Phocidae':0.045289)[&label="100/100"]:0.40005)[&label="91.3/100"]:0.058405)[&label="99.8/96"]:0.328242)[&label="95.2/93"]:0.312527)[&label="60.1/87"]:0.087906,(EU867824_SEA_TURTLE:1.0E-6,EU867817_SEA_TURTLE:1.0E-6)[&label="100/100"]:2.648593)[&label="87.1/98"]:0.155401,((((((((((((((((((((AB011493_Human:0.045352,('AB041007|Torque_teno_virus_1|Homo_sapiens|Hominidae':0.024728,'AF351132|Torque_teno_virus_1|Homo_sapiens|Hominidae':0.02707)[&label="99.6/100"]:0.052744)[&label="99.4/100"]:0.10117,((((('MH017570|Torque_teno_virus_1|Homo_sapiens|Hominidae':0.037986,'MH017587|Torque_teno_virus_1|Homo_sapiens|Hominidae':0.045711)[&label="71.3/91"]:0.001588,'MH017586|Torque_teno_virus_1|Homo_sapiens|Hominidae':0.018185)[&label="0/49"]:1.0E-6,('MH017572|Torque_teno_virus_1|Homo_sapiens|Hominidae':1.0E-6,(('MH017573|Torque_teno_virus_1|Homo_sapiens|Hominidae':2.0E-6,(('MH017574|Torque_teno_virus_1|Homo_sapiens|Hominidae':1.0E-6,'MH017575|Torque_teno_virus_1|Homo_sapiens|Hominidae':0.011093)[&label="0/61"]:2.0E-6,('MH017576|Torque_teno_virus_1|Homo_sapiens|Hominidae':1.0E-6,('MH017577|Torque_teno_virus_1|Homo_sapiens|Hominidae':1.0E-6,'MH017578|Torque_teno_virus_1|Homo_sapiens|Hominidae':0.012549)[&label="97.6/100"]:0.011104)[&label="100/100"]:0.019561)[&label="99.9/100"]:0.012471)[&label="97.7/100"]:0.008297,'MH017582|Torque_teno_virus_1|Homo_sapiens|Hominidae':0.053114)[&label="74.3/99"]:0.001374)[&label="100/100"]:0.026676)[&label="0/21"]:3.0E-6,'MH017571|Torque_teno_virus_1|Homo_sapiens|Hominidae':2.0E-6)[&label="64/89"]:0.002801,(('MH017579|Torque_teno_virus_1|Homo_sapiens|Hominidae':2.0E-6,('MH017580|Torque_teno_virus_1|Homo_sapiens|Hominidae':2.0E-6,'MH017581|Torque_teno_virus_1|Homo_sapiens|Hominidae':0.013973)[&label="99/100"]:0.008333)[&label="73.2/100"]:0.00133,('MH017583|Torque_teno_virus_1|Homo_sapiens|Hominidae':0.0033,('MH017584|Torque_teno_virus_1|Homo_sapiens|Hominidae':1.0E-6,'MH017585|Torque_teno_virus_1|Homo_sapiens|Hominidae':0.015375)[&label="99.1/100"]:0.013472)[&label="100/100"]:0.060843)[&label="97.1/100"]:0.019689)[&label="100/100"]:0.38164)[&label="100/100"]:0.240478,((((('AF298585|Torque_teno_virus_3|Homo_sapiens|Hominidae':0.031339,'MH648958|Torque_teno_virus_3|Homo_sapiens|Hominidae':0.028882)[&label="97.4/100"]:0.021647,'MH649258|Torque_teno_virus_3|Homo_sapiens|Hominidae':0.06711)[&label="99.6/100"]:0.051912,('MH648901|Torque_teno_virus_3|Homo_sapiens|Hominidae':0.025867,'MH649242|Torque_teno_virus_3|Homo_sapiens|Hominidae':0.036342)[&label="99.5/100"]:0.0486)[&label="100/100"]:0.136611,(('MH649092|Torque_teno_virus_3|Homo_sapiens|Hominidae':0.075012,'MH649156|Torque_teno_virus_3|Homo_sapiens|Hominidae':0.117733)[&label="99.9/100"]:0.09562,'MH649208|Torque_teno_virus_3|Homo_sapiens|Hominidae':0.304284)[&label="99.4/100"]:0.085829)[&label="99.6/100"]:0.108981,'AY666122|Torque_teno_virus_3|Homo_sapiens|Hominidae':0.231907)[&label="99.7/100"]:0.127794)[&label="84.4/100"]:0.071372,('AB049608|Torque_teno_virus_2|Pan_troglodytes|Hominidae':0.252591,'MK820644|Torque_teno_virus_2|Homo_sapiens|Hominidae':0.407771)[&label="98.5/100"]:0.16106)[&label="77.6/89"]:0.046658,('AF345523|Torque_teno_virus_5|Homo_sapiens|Hominidae':0.297416,'MH649022|Torque_teno_virus_5|Homo_sapiens|Hominidae':0.224253)[&label="100/100"]:0.325375)[&label="91.3/91"]:0.083024,'AB041957|Torque_teno_virus_4|Pan_troglodytes|Hominidae':0.42594)[&label="100/100"]:0.213082,'KJ082064|Torque_teno_virus_31|Homo_sapiens|Hominidae':0.607101)[&label="96/99"]:0.107879,(((AB054648_Human:0.256843,'AB054647|Torque_teno_virus_7|Homo_sapiens|Hominidae':0.271385)[&label="100/100"]:0.124928,'AF261761|Torque_teno_virus_7|Homo_sapiens|Hominidae':0.348014)[&label="99.9/100"]:0.188169,'AF435014|Torque_teno_virus_6|Homo_sapiens|Hominidae':0.443675)[&label="100/100"]:0.270413)[&label="22.5/77"]:0.058902,(AJ620228_Human:0.345183,(('AF345524|Torque_teno_virus_9|Homo_sapiens|Hominidae':0.401354,('AB064607|Torque_teno_virus_9|Homo_sapiens|Hominidae':0.092553,'GU797360|Torque_teno_virus_9|Homo_sapiens|Hominidae':0.069696)[&label="100/100"]:0.242297)[&label="97.2/100"]:0.079973,('AB064605|Torque_teno_virus_9|Homo_sapiens|Hominidae':0.374133,('MH649063|Torque_teno_virus_9|Homo_sapiens|Hominidae':0.360085,'MH649203|Torque_teno_virus_9|Homo_sapiens|Hominidae':0.320954)[&label="79.6/100"]:0.070384)[&label="89.3/99"]:0.061369)[&label="89.7/99"]:0.074198)[&label="100/100"]:0.277316)[&label="94.1/99"]:0.07516,'KJ194503|Torque_teno_virus_32|Homo_sapiens|Hominidae':0.807298)[&label="54/79"]:0.08291,((((((AY264849_Human:0.031638,'AB028668|Torque_teno_virus_15|Homo_sapiens|Hominidae':0.022199)[&label="100/100"]:0.137266,'MH648932|Torque_teno_virus_15|Homo_sapiens|Hominidae':0.109997)[&label="100/100"]:0.242868,('AB017613|Torque_teno_virus_15|Homo_sapiens|Hominidae':0.021489,('MK452766|Torque_teno_virus_15|Sus_scrofa|Suidae':0.009057,'MK452767|Torque_teno_virus_15|Sus_scrofa|Suidae':0.040704)[&label="100/100"]:0.133372)[&label="100/100"]:0.388058)[&label="52.9/99"]:0.061644,((((('KM593802|Torque_teno_virus_18|Homo_sapiens|Hominidae':0.012624,'KM593803|Torque_teno_virus_18|Homo_sapiens|Hominidae':0.002872)[&label="92.6/100"]:0.015962,'MH648893|Torque_teno_virus_18|Homo_sapiens|Hominidae':0.029935)[&label="99.9/100"]:0.058028,'MH648916|Torque_teno_virus_18|Homo_sapiens|Hominidae':0.04714)[&label="99.4/100"]:0.075181,('MH648997|Torque_teno_virus_18|Homo_sapiens|Hominidae':0.137818,'MK820646|Torque_teno_virus_18|Homo_sapiens|Hominidae':0.184434)[&label="91.2/100"]:0.057997)[&label="100/100"]:0.33701,'MH648959|Torque_teno_virus_17|Homo_sapiens|Hominidae':0.383351)[&label="6.5/20"]:0.063592)[&label="100/100"]:0.188325,((((AB038619_Human:0.041471,'AB025946|Torque_teno_virus_19|Homo_sapiens|Hominidae':0.042583)[&label="100/100"]:0.228684,'MH649210|Torque_teno_virus_19|Homo_sapiens|Hominidae':0.273409)[&label="100/100"]:0.156323,(('AB060594|Torque_teno_virus_20|Homo_sapiens|Hominidae':0.294549,'MH649042|Torque_teno_virus_20|Homo_sapiens|Hominidae':0.240516)[&label="99.9/100"]:0.141588,'MH649178|Torque_teno_virus_20|Homo_sapiens|Hominidae':0.25796)[&label="99.8/100"]:0.135827)[&label="100/100"]:0.141602,(('AB049607|Torque_teno_virus_24|Pan_troglodytes|Hominidae':0.466925,(((('AB060597|Torque_teno_virus_24|Homo_sapiens|Hominidae':0.095471,('FJ426280|Torque_teno_virus_24|Homo_sapiens|Hominidae':0.071455,(('MH648969|Torque_teno_virus_24|Homo_sapiens|Hominidae':0.02319,'MH649179|Torque_teno_virus_24|Homo_sapiens|Hominidae':0.037215)[&label="99.4/100"]:0.032309,('MH648976|Torque_teno_virus_24|Homo_sapiens|Hominidae':0.040266,'MH649142|Torque_teno_virus_24|Homo_sapiens|Hominidae':0.04032)[&label="87.5/96"]:0.018072)[&label="86.3/96"]:0.020582)[&label="40/100"]:0.038601)[&label="100/100"]:0.155297,'MH649256|Torque_teno_virus_24|Homo_sapiens|Hominidae':0.182576)[&label="100/100"]:0.12501,'AY823988|Torque_teno_virus_24|Homo_sapiens|Hominidae':0.290946)[&label="95.7/100"]:0.071698,(('MH648925|Torque_teno_virus_24|Homo_sapiens|Hominidae':0.245478,('MH648995|Torque_teno_virus_24|Homo_sapiens|Hominidae':0.241655,('MH649008|Torque_teno_virus_24|Homo_sapiens|Hominidae':0.096644,'MH649014|Torque_teno_virus_24|Homo_sapiens|Hominidae':0.12898)[&label="95/100"]:0.04989)[&label="99.7/100"]:0.121963)[&label="100/100"]:0.122153,'MK820645|Torque_teno_virus_24|Homo_sapiens|Hominidae':0.178267)[&label="99.9/100"]:0.09344)[&label="79.8/100"]:0.051149)[&label="90.7/100"]:0.064762,(('AF348409|Torque_teno_virus_21|Homo_sapiens|Hominidae':0.248549,(('MH649113|Torque_teno_virus_21|Homo_sapiens|Hominidae':0.04313,'MH649169|Torque_teno_virus_21|Homo_sapiens|Hominidae':0.042778)[&label="27.8/100"]:0.006416,'MH649158|Torque_teno_virus_21|Homo_sapiens|Hominidae':0.013008)[&label="100/100"]:0.181253)[&label="100/100"]:0.129704,'MH649062|Torque_teno_virus_21|Homo_sapiens|Hominidae':0.353489)[&label="100/100"]:0.130629)[&label="100/100"]:0.137882)[&label="60.7/86"]:0.080755)[&label="98.5/100"]:0.124354,('AB037926|Torque_teno_virus_14|Pan_troglodytes|Hominidae':0.497417,((('AF345526|Torque_teno_virus_14|Homo_sapiens|Hominidae':0.139218,('MH649039|Torque_teno_virus_14|Homo_sapiens|Hominidae':0.046114,'MH649137|Torque_teno_virus_14|Homo_sapiens|Hominidae':0.0338)[&label="100/100"]:0.081104)[&label="90.2/100"]:0.037815,'MH649122|Torque_teno_virus_14|Homo_sapiens|Hominidae':0.09845)[&label="100/100"]:0.177128,('AY823989|Torque_teno_virus_14|Homo_sapiens|Hominidae':0.125125,'KJ194502|Torque_teno_virus_14|Homo_sapiens|Hominidae':0.070519)[&label="100/100"]:0.143297)[&label="96.1/100"]:0.104076)[&label="100/100"]:0.332533)[&label="100/100"]:0.24801)[&label="99.9/100"]:0.234239,((((((AB038624_Human:0.014642,'AB038621|Torque_teno_virus_29|Homo_sapiens|Hominidae':0.024171)[&label="94.1/100"]:0.034959,'MH648913|Torque_teno_virus_29|Homo_sapiens|Hominidae':0.076006)[&label="100/100"]:0.220633,(('MH649070|Torque_teno_virus_29|Homo_sapiens|Hominidae':0.01314,'MH649255|Torque_teno_virus_29|Homo_sapiens|Hominidae':0.018247)[&label="79.4/100"]:0.007051,'MH649144|Torque_teno_virus_29|Homo_sapiens|Hominidae':0.010122)[&label="100/100"]:0.256734)[&label="69.8/97"]:0.079103,((('AB064598|Torque_teno_virus_29|Homo_sapiens|Hominidae':0.024262,'MH648946|Torque_teno_virus_29|Homo_sapiens|Hominidae':0.023489)[&label="100/100"]:0.203414,'MH648990|Torque_teno_virus_29|Homo_sapiens|Hominidae':0.164261)[&label="98.9/100"]:0.101531,('KP036971|Torque_teno_virus_29|Homo_sapiens|Hominidae':0.050424,'MH648962|Torque_teno_virus_29|Homo_sapiens|Hominidae':0.047)[&label="100/100"]:0.193031)[&label="99.8/100"]:0.161256)[&label="76.6/96"]:0.118536,'AB064595|Torque_teno_virus_29|Homo_sapiens|Hominidae':0.395869)[&label="100/100"]:0.418063,(((('AB041959|Torque_teno_virus_25|Macaca_fuscata|Cercopithecidae':0.52556,'KP296856|Torque_teno_chlorocebus_virus_2|Chlorocebus_sabaeus|Cercopithecidae':0.391542)[&label="100/100"]:0.402346,'AB041958|Torque_teno_virus_26|Macaca_fuscata|Cercopithecidae':0.867529)[&label="38.5/98"]:0.095996,'KP296857|Torque_teno_chlorocebus_virus_1|Chlorocebus_sabaeus|Cercopithecidae':0.941896)[&label="47.7/95"]:0.047326,('KP296853|Torque_teno_chlorocebus_virus_3|Chlorocebus_sabaeus|Cercopithecidae':0.461854,('KP296854|Torque_teno_chlorocebus_virus_5|Chlorocebus_sabaeus|Cercopithecidae':0.438631,'KP296855|Torque_teno_chlorocebus_virus_4|Chlorocebus_sabaeus|Cercopithecidae':0.526778)[&label="99.9/100"]:0.249227)[&label="100/100"]:0.343085)[&label="8/50"]:0.084235)[&label="96.9/100"]:0.119573)[&label="100/100"]:0.337927,((((AB449063_Chimpanzee:0.15742,'AB449062|Torque_teno_midi_virus_15|Pan_troglodytes|Hominidae':0.14468)[&label="100/100"]:0.710887,(((((((('AY622908|Torque_teno_midi_virus_1|Homo_sapiens|Hominidae':0.058551,'AB290917|Torque_teno_midi_virus_1|Homo_sapiens|Hominidae':0.024276)[&label="100/100"]:0.463328,('EF538875|Torque_teno_midi_virus_3|Homo_sapiens|Hominidae':0.412252,'EF538876|Torque_teno_midi_virus_4|Homo_sapiens|Hominidae':0.408049)[&label="96.4/100"]:0.16338)[&label="82.2/82"]:0.097305,('AB303552|Torque_teno_midi_virus_5|Homo_sapiens|Hominidae':0.476364,'AB303558|Torque_teno_midi_virus_8|Homo_sapiens|Hominidae':0.56479)[&label="79.3/82"]:0.090988)[&label="95.2/100"]:0.090468,'AB303560|Torque_teno_midi_virus_10|Homo_sapiens|Hominidae':0.727021)[&label="7.1/71"]:0.051323,('AB303553|Torque_teno_midi_virus_6|Homo_sapiens|Hominidae':0.251905,'AB303563|Torque_teno_midi_virus_6|Homo_sapiens|Hominidae':0.279942)[&label="100/100"]:0.450481)[&label="98.7/100"]:0.13434,('AB303554|Torque_teno_midi_virus_7|Homo_sapiens|Hominidae':0.548793,('AB303562|Torque_teno_midi_virus_12|Homo_sapiens|Hominidae':0.577502,'AB303566|Torque_teno_midi_virus_14|Homo_sapiens|Hominidae':0.419263)[&label="28.2/99"]:0.082472)[&label="97.6/100"]:0.123527)[&label="80.6/99"]:0.088049,(('AY622909|Torque_teno_midi_virus_2|Homo_sapiens|Hominidae':0.177267,'AB290919|Torque_teno_midi_virus_2|Homo_sapiens|Hominidae':0.152942)[&label="100/100"]:0.343606,'AB303564|Torque_teno_midi_virus_13|Homo_sapiens|Hominidae':0.527051)[&label="99.5/100"]:0.168469)[&label="90/100"]:0.093221,('AB303559|Torque_teno_midi_virus_9|Homo_sapiens|Hominidae':0.527524,'AB303561|Torque_teno_midi_virus_11|Homo_sapiens|Hominidae':0.563945)[&label="98.7/100"]:0.15212)[&label="100/100"]:0.260156)[&label="100/100"]:0.296662,((((((((((((AB038626_Human:0.082371,'MH648977|Torque_teno_mini_virus_1|Homo_sapiens|Hominidae':0.109958)[&label="100/100"]:0.10619,'MH649229|Torque_teno_mini_virus_1|Homo_sapiens|Hominidae':0.131355)[&label="15.4/96"]:0.056352,'MH649011|Torque_teno_mini_virus_1|Homo_sapiens|Hominidae':0.275883)[&label="100/100"]:0.194982,'AB026931|Torque_teno_mini_virus_1|Homo_sapiens|Hominidae':0.428082)[&label="99.8/100"]:0.149011,((((((('KY462757|Torque_teno_mini_virus_1|Homo_sapiens|Hominidae':0.024692,((('KY462759|Torque_teno_mini_virus_1|Homo_sapiens|Hominidae':0.001641,'KY462768|Torque_teno_mini_virus_1|Homo_sapiens|Hominidae':2.0E-6)[&label="98.4/98"]:0.013426,(('KY462760|Torque_teno_mini_virus_1|Homo_sapiens|Hominidae':0.003291,'KY462764|Torque_teno_mini_virus_1|Homo_sapiens|Hominidae':2.0E-6)[&label="86/100"]:0.010076,'KY462761|Torque_teno_mini_virus_1|Homo_sapiens|Hominidae':0.011949)[&label="8.5/94"]:0.002283)[&label="91.4/96"]:0.007655,'KY462765|Torque_teno_mini_virus_1|Homo_sapiens|Hominidae':0.011849)[&label="89.6/96"]:0.011002)[&label="88.6/96"]:0.011246,(('KY462758|Torque_teno_mini_virus_1|Homo_sapiens|Hominidae':0.001636,'KY462766|Torque_teno_mini_virus_1|Homo_sapiens|Hominidae':2.0E-6)[&label="77.5/100"]:0.001986,('KY462763|Torque_teno_mini_virus_1|Homo_sapiens|Hominidae':1.0E-6,'KY462767|Torque_teno_mini_virus_1|Homo_sapiens|Hominidae':1.0E-6)[&label="82.5/100"]:0.003013)[&label="99/100"]:0.023278)[&label="90.5/100"]:0.016932,'KY462762|Torque_teno_mini_virus_1|Homo_sapiens|Hominidae':0.027107)[&label="87.9/100"]:0.011784,'KY462769|Torque_teno_mini_virus_1|Homo_sapiens|Hominidae':0.032534)[&label="98.9/100"]:0.037855,'MH649077|Torque_teno_mini_virus_1|Homo_sapiens|Hominidae':0.06749)[&label="100/100"]:0.225619,'MH649254|Torque_teno_mini_virus_1|Homo_sapiens|Hominidae':0.315572)[&label="100/100"]:0.118183,'MK212029|Torque_teno_mini_virus_1|Homo_sapiens|Hominidae':0.302361)[&label="100/100"]:0.172846)[&label="99.6/100"]:0.131259,(('KU041847|Torque_teno_mini_virus_32|Homo_sapiens|Hominidae':0.091341,'MH649023|Torque_teno_mini_virus_32|Homo_sapiens|Hominidae':0.079796)[&label="100/100"]:0.361161,'MH649104|Torque_teno_mini_virus_32|Homo_sapiens|Hominidae':0.415642)[&label="99.6/100"]:0.156372)[&label="88/100"]:0.090497,(('KU243129|Torque_teno_mini_virus_8|Homo_sapiens|Hominidae':0.549891,('MH649152|Torque_teno_mini_virus_28|Homo_sapiens|Hominidae':0.340386,('MH017563|Torque_teno_mini_virus_28|Homo_sapiens|Hominidae':3.0E-6,('MH017564|Torque_teno_mini_virus_28|Homo_sapiens|Hominidae':3.0E-6,('MH017565|Torque_teno_mini_virus_28|Homo_sapiens|Hominidae':2.0E-6,(('MH017566|Torque_teno_mini_virus_28|Homo_sapiens|Hominidae':3.0E-6,('MH017568|Torque_teno_mini_virus_28|Homo_sapiens|Hominidae':1.0E-6,'MH017569|Torque_teno_mini_virus_28|Homo_sapiens|Hominidae':2.0E-6)[&label="99.9/100"]:0.016369)[&label="93.2/100"]:0.004886,'MH017567|Torque_teno_mini_virus_28|Homo_sapiens|Hominidae':3.0E-6)[&label="100/100"]:0.031435)[&label="78.6/100"]:0.001624)[&label="99.2/100"]:0.026332)[&label="100/100"]:0.304487)[&label="96.8/100"]:0.118875)[&label="99.9/100"]:0.212445,(('MH649017|Torque_teno_mini_virus_31|Homo_sapiens|Hominidae':0.068088,'MH649212|Torque_teno_mini_virus_31|Homo_sapiens|Hominidae':0.038526)[&label="100/100"]:0.470423,'MH649114|Torque_teno_mini_virus_34|Homo_sapiens|Hominidae':0.411296)[&label="97.4/100"]:0.113657)[&label="84.8/100"]:0.070927)[&label="99.7/100"]:0.141138,(((('AB038629|Torque_teno_mini_virus_2|Homo_sapiens|Hominidae':0.05583,'MH649217|Torque_teno_mini_virus_2|Homo_sapiens|Hominidae':0.08557)[&label="17.4/90"]:0.033016,'MH649051|Torque_teno_mini_virus_2|Homo_sapiens|Hominidae':0.053955)[&label="100/100"]:0.302499,'MH649165|Torque_teno_mini_virus_2|Homo_sapiens|Hominidae':0.283668)[&label="100/100"]:0.251817,'AB038630|Torque_teno_mini_virus_3|Homo_sapiens|Hominidae':0.656567)[&label="94.9/100"]:0.157556)[&label="100/100"]:0.186765,((((('MH648900|Torque_teno_mini_virus_36|Homo_sapiens|Hominidae':0.328659,('MH648983|Torque_teno_mini_virus_36|Homo_sapiens|Hominidae':0.347819,(('MH648985|Torque_teno_mini_virus_36|Homo_sapiens|Hominidae':0.261507,'MH649028|Torque_teno_mini_virus_36|Homo_sapiens|Hominidae':0.288339)[&label="95.3/100"]:0.095334,'MH649206|Torque_teno_mini_virus_36|Homo_sapiens|Hominidae':0.372473)[&label="86/100"]:0.082204)[&label="100/100"]:0.18018)[&label="98.2/100"]:0.152327,'LC381845|Torque_teno_mini_virus_36|Homo_sapiens|Hominidae':0.33461)[&label="99/100"]:0.169131,'MH648986|Torque_teno_mini_virus_39|Homo_sapiens|Hominidae':0.474769)[&label="72.7/100"]:0.066795,((('MH648982|Torque_teno_mini_virus_38|Homo_sapiens|Hominidae':0.167296,'MH649083|Torque_teno_mini_virus_38|Homo_sapiens|Hominidae':0.104311)[&label="97.8/100"]:0.118864,'MH649223|Torque_teno_mini_virus_38|Homo_sapiens|Hominidae':0.16641)[&label="100/100"]:0.423533,'MH649209|Torque_teno_mini_virus_37|Homo_sapiens|Hominidae':0.515625)[&label="56.5/97"]:0.051422)[&label="99.8/100"]:0.17695,'MH648912|Torque_teno_mini_virus_30|Homo_sapiens|Hominidae':0.51663)[&label="100/100"]:0.343825)[&label="49.4/81"]:0.071545,(((((('AB026929|Torque_teno_mini_virus_6|Homo_sapiens|Hominidae':0.332028,'MH649006|Torque_teno_mini_virus_6|Homo_sapiens|Hominidae':0.378964)[&label="59.1/100"]:0.081466,(('MH648897|Torque_teno_mini_virus_6|Homo_sapiens|Hominidae':0.037604,'MH649002|Torque_teno_mini_virus_6|Homo_sapiens|Hominidae':0.033742)[&label="86.5/100"]:0.021146,'MH648999|Torque_teno_mini_virus_6|Homo_sapiens|Hominidae':0.063718)[&label="100/100"]:0.276186)[&label="98.1/100"]:0.103269,('MH649106|Torque_teno_mini_virus_6|Homo_sapiens|Hominidae':0.430528,'MH649141|Torque_teno_mini_virus_24|Homo_sapiens|Hominidae':0.448279)[&label="49.7/100"]:0.070952)[&label="100/100"]:0.234283,(((((((('AB038625|Torque_teno_mini_virus_9|Homo_sapiens|Hominidae':0.196502,'MH649009|Torque_teno_mini_virus_9|Homo_sapiens|Hominidae':0.201391)[&label="98.8/100"]:0.084998,('MH649045|Torque_teno_mini_virus_9|Homo_sapiens|Hominidae':0.10425,('MH649183|Torque_teno_mini_virus_9|Homo_sapiens|Hominidae':0.028992,'MH649228|Torque_teno_mini_virus_9|Homo_sapiens|Hominidae':0.058381)[&label="94.9/100"]:0.067565)[&label="100/100"]:0.147006)[&label="97.4/100"]:0.083693,('MH649157|Torque_teno_mini_virus_9|Homo_sapiens|Hominidae':0.145108,'MH649172|Torque_teno_mini_virus_9|Homo_sapiens|Hominidae':0.21751)[&label="100/100"]:0.177478)[&label="100/100"]:0.164524,(((('MH649040|Torque_teno_mini_virus_9|Homo_sapiens|Hominidae':0.034847,'MH649224|Torque_teno_mini_virus_9|Homo_sapiens|Hominidae':0.035093)[&label="97/100"]:0.046368,'MH649189|Torque_teno_mini_virus_9|Homo_sapiens|Hominidae':0.057908)[&label="100/100"]:0.162629,'MH649125|Torque_teno_mini_virus_9|Homo_sapiens|Hominidae':0.23224)[&label="99.7/100"]:0.116842,('MH649174|Torque_teno_mini_virus_9|Homo_sapiens|Hominidae':0.009108,'MH649196|Torque_teno_mini_virus_9|Homo_sapiens|Hominidae':0.029694)[&label="100/100"]:0.238696)[&label="97.6/100"]:0.102225)[&label="26.2/94"]:0.07394,(('KM259873|Torque_teno_mini_virus_27|Homo_sapiens|Hominidae':0.093169,'MH649186|Torque_teno_mini_virus_27|Homo_sapiens|Hominidae':0.110236)[&label="100/100"]:0.247768,'MH649061|Torque_teno_mini_virus_27|Homo_sapiens|Hominidae':0.314668)[&label="100/100"]:0.209643)[&label="75/100"]:0.090919,'MH649068|Torque_teno_mini_virus_27|Homo_sapiens|Hominidae':0.610544)[&label="99/100"]:0.153134,'AF291073|Torque_teno_mini_virus_8|Homo_sapiens|Hominidae':0.484717)[&label="99.8/100"]:0.171641,('AB038627|Torque_teno_mini_virus_7|Homo_sapiens|Hominidae':0.693143,(('EF538882|Torque_teno_mini_virus_12|Homo_sapiens|Hominidae':0.464479,'MK212030|Torque_teno_mini_virus_26|Homo_sapiens|Hominidae':0.365089)[&label="98.4/100"]:0.117128,('KY462770|Torque_teno_mini_virus_26|Homo_sapiens|Hominidae':0.306181,'MH649204|Torque_teno_mini_virus_26|Homo_sapiens|Hominidae':0.295609)[&label="100/100"]:0.182699)[&label="100/100"]:0.228319)[&label="91.4/98"]:0.076261)[&label="62/98"]:0.078216)[&label="99.8/100"]:0.149914,(((((((('AB041962|Torque_teno_mini_virus_5|Homo_sapiens|Hominidae':0.307865,'JX134045|Torque_teno_mini_virus_5|Homo_sapiens|Hominidae':0.25548)[&label="100/100"]:0.297845,'MK212031|Torque_teno_mini_virus_22|Homo_sapiens|Hominidae':0.443558)[&label="99.7/100"]:0.210824,((('MH017556|Torque_teno_mini_virus_5|Homo_sapiens|Hominidae':3.0E-6,('MH017560|Torque_teno_mini_virus_5|Homo_sapiens|Hominidae':1.0E-6,'MH017561|Torque_teno_mini_virus_5|Homo_sapiens|Hominidae':0.006308)[&label="100/100"]:0.02716)[&label="82.9/92"]:0.001578,'MH017557|Torque_teno_mini_virus_5|Homo_sapiens|Hominidae':0.001579)[&label="0/19"]:2.0E-6,(('MH017558|Torque_teno_mini_virus_5|Homo_sapiens|Hominidae':0.001579,'MH017559|Torque_teno_mini_virus_5|Homo_sapiens|Hominidae':1.0E-6)[&label="99.3/100"]:0.0128,'MH017562|Torque_teno_mini_virus_5|Homo_sapiens|Hominidae':0.045598)[&label="74.4/99"]:0.001506)[&label="100/100"]:0.530042)[&label="93.7/99"]:0.140135,'KX810063|Torque_teno_mini_virus_23|Homo_sapiens|Hominidae':0.635196)[&label="99.9/100"]:0.208696,('KY856742|Torque_teno_mini_virus_13|Homo_sapiens|Hominidae':0.644576,('MH017546|Torque_teno_mini_virus_14|Homo_sapiens|Hominidae':0.006038,('MH017547|Torque_teno_mini_virus_14|Homo_sapiens|Hominidae':0.001548,('MH017548|Torque_teno_mini_virus_14|Homo_sapiens|Hominidae':0.001369,('MH017549|Torque_teno_mini_virus_14|Homo_sapiens|Hominidae':0.001529,(('MH017550|Torque_teno_mini_virus_14|Homo_sapiens|Hominidae':1.0E-6,('MH017552|Torque_teno_mini_virus_14|Homo_sapiens|Hominidae':0.001508,('MH017553|Torque_teno_mini_virus_14|Homo_sapiens|Hominidae':3.0E-6,('MH017554|Torque_teno_mini_virus_14|Homo_sapiens|Hominidae':2.0E-6,'MH017555|Torque_teno_mini_virus_14|Homo_sapiens|Hominidae':0.001528)[&label="100/100"]:0.03434)[&label="100/100"]:0.040876)[&label="100/100"]:0.034581)[&label="0/30"]:3.0E-6,'MH017551|Torque_teno_mini_virus_14|Homo_sapiens|Hominidae':1.0E-6)[&label="76.6/98"]:0.001543)[&label="100/100"]:0.020378)[&label="100/100"]:0.034737)[&label="99.3/100"]:0.026994)[&label="100/100"]:0.686211)[&label="59/95"]:0.106121)[&label="72.1/99"]:0.089562,((('JX134044|Torque_teno_mini_virus_15|Homo_sapiens|Hominidae':0.297883,'MK139485|Torque_teno_mini_virus_15|Homo_sapiens|Hominidae':0.302247)[&label="100/100"]:0.222112,'KM259874|Torque_teno_mini_virus_16|Homo_sapiens|Hominidae':0.566217)[&label="98.2/100"]:0.136861,(('KF764701|Torque_teno_mini_virus_18|Homo_sapiens|Hominidae':3.0E-6,'KF764702|Torque_teno_mini_virus_18|Homo_sapiens|Hominidae':0.004928)[&label="100/100"]:0.497379,'MH648907|Torque_teno_mini_virus_17|Homo_sapiens|Hominidae':0.481535)[&label="100/100"]:0.304389)[&label="99.9/100"]:0.170392)[&label="90.2/100"]:0.078471,'AB041963|Torque_teno_mini_virus_4|Pan_troglodytes|Hominidae':0.552864)[&label="81.6/99"]:0.083214,('JX134046|Torque_teno_mini_virus_19|Homo_sapiens|Hominidae':0.73767,((('MH648892|Torque_teno_mini_virus_19|Homo_sapiens|Hominidae':0.260837,(('MH649056|Torque_teno_mini_virus_20|Homo_sapiens|Hominidae':0.195171,('MH649101|Torque_teno_mini_virus_20|Homo_sapiens|Hominidae':0.187445,'MH649161|Torque_teno_mini_virus_20|Homo_sapiens|Hominidae':0.163577)[&label="92.6/100"]:0.079257)[&label="98.2/100"]:0.096764,'MH649241|Torque_teno_mini_virus_20|Homo_sapiens|Hominidae':0.23199)[&label="100/100"]:0.194194)[&label="99.9/100"]:0.186208,'MH649084|Torque_teno_mini_virus_20|Homo_sapiens|Hominidae':0.320919)[&label="93.5/100"]:0.085738,'MH648989|Torque_teno_mini_virus_20|Homo_sapiens|Hominidae':0.259612)[&label="100/100"]:0.426122)[&label="90.8/97"]:0.078115)[&label="70.6/98"]:0.057598)[&label="99.6/99"]:0.126818,((((('EF538880|Torque_teno_mini_virus_10|Homo_sapiens|Hominidae':0.338227,'MH649263|Torque_teno_mini_virus_10|Homo_sapiens|Hominidae':0.364764)[&label="100/100"]:0.283609,'MH648966|Torque_teno_mini_virus_35|Homo_sapiens|Hominidae':0.602164)[&label="89.8/100"]:0.108598,'EF538881|Torque_teno_mini_virus_11|Homo_sapiens|Hominidae':0.690653)[&label="81.5/100"]:0.144715,'MH649199|Torque_teno_mini_virus_33|Homo_sapiens|Hominidae':0.73467)[&label="95.8/100"]:0.115364,'KX810064|Torque_teno_mini_virus_29|Homo_sapiens|Hominidae':0.981301)[&label="91.8/97"]:0.068667)[&label="93.6/98"]:0.089799)[&label="97.1/90"]:0.124099,'MK212032|Torque_teno_hominid_virus_2|Homo_sapiens|Hominidae':0.86491)[&label="98.3/100"]:0.130629,'KT027939|Torque_teno_hominid_virus_1|Gorilla_gorilla|Hominidae':0.817543)[&label="90.6/100"]:0.11154)[&label="34.3/64"]:0.095799,'MH649127|Torque_teno_mini_virus_8|Homo_sapiens|Hominidae':0.903289)[&label="99.7/100"]:0.253817)[&label="95.7/99"]:0.257798,(('MH760402|unclassified|Sapajus_nigritus|Cebidae':0.523547,((((('OM416788|Epsilontorquevirus_callithrichensis_II':0.020348,'OM416787|Epsilontorquevirus_callithrichensis_II':0.02924)[&label="100/100"]:0.264567,'OM416786|Epsilontorquevirus_callithrichensis_II':0.220595)[&label="92.3/100"]:0.07227,(((('OM416782|Epsilontorquevirus_callithrichensis_II':0.091131,'OM416789|Epsilontorquevirus_callithrichensis_II':0.091383)[&label="100/100"]:0.244664,'OM416790|Epsilontorquevirus_callithrichensis_II':0.341312)[&label="8.4/97"]:0.039343,('OM416791|Epsilontorquevirus_callithrichensis_II':0.13034,'OM416792|Epsilontorquevirus_callithrichensis_II':0.152016)[&label="100/100"]:0.170417)[&label="79/99"]:0.048994,('OM416795|Epsilontorquevirus_callithrichensis_II':0.209926,('OM416793|Epsilontorquevirus_callithrichensis_II':0.043041,'OM416794|Epsilontorquevirus_callithrichensis_II':0.057683)[&label="100/100"]:0.134517)[&label="99.7/100"]:0.104974)[&label="96.3/100"]:0.066342)[&label="100/100"]:0.213734,(('OM416781|Epsilontorquevirus_callithrichensis_I':0.185181,('OM416784|Epsilontorquevirus_callithrichensis_I':0.046042,'OM416785|Epsilontorquevirus_callithrichensis_I':0.04828)[&label="100/100"]:0.149885)[&label="99.2/100"]:0.108687,'OM416783|Epsilontorquevirus_callithrichensis_I':0.339889)[&label="99.9/100"]:0.192119)[&label="91.6/88"]:0.10449,'AB041960|Torque_teno_tamarin_virus|Saguinus_oedipus|Callitrichidae':0.551213)[&label="91.9/88"]:0.135086)[&label="100/100"]:0.939782,'AB041961|Torque_teno_douroucouli_virus|Aotes_trivirgatus|Aotidae':1.752753)[&label="65.3/53"]:0.245736)[&label="99.9/96"]:0.435327,((((((((((((((('AY823991|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.005356,'HM633228|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.003553)[&label="75.9/100"]:0.001766,'JX535328|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.01072)[&label="87.5/100"]:0.003687,'GU570206|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.017843)[&label="35.1/100"]:0.001741,'HM633239|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.012417)[&label="77/100"]:0.003721,'JF937656|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.005446)[&label="100/100"]:0.04304,('GU570207|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.012422,('JF937658|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.02748,('JQ664305|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.003048,('JX535334|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.004134,'KU156681|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.017502)[&label="89.6/100"]:0.005456)[&label="88.1/100"]:0.004208)[&label="95.6/99"]:0.0101)[&label="97.4/99"]:0.018519)[&label="71.7/98"]:0.017222,(((((('HM633216|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':3.0E-6,'HM633231|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.007194)[&label="98/100"]:0.010716,('HM633225|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.007183,'JX535329|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.001787)[&label="75.1/55"]:0.002086)[&label="89.7/97"]:0.006686,'MH469990|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.007494)[&label="50.8/53"]:0.005949,'JX535335|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.012046)[&label="74.4/100"]:0.003452,'KR054747|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.007645)[&label="99.2/100"]:0.029508,'JF937657|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.03198)[&label="97.3/100"]:0.035638)[&label="85.4/99"]:0.017803,('GU570208|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.035761,(((((('HM633215|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':1.0E-6,'HM633221|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.005378)[&label="95.5/100"]:0.00954,'HM633233|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.014017)[&label="97.8/100"]:0.014362,'HM633219|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.005538)[&label="88.8/100"]:0.008661,'HM633240|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.012217)[&label="90.3/100"]:0.017063,'JF937659|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.041165)[&label="27.3/91"]:0.011472,('JX535330|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.013784,'JX535333|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.011606)[&label="99.9/100"]:0.031838)[&label="96.7/98"]:0.020321)[&label="92.2/100"]:0.018731)[&label="93.8/100"]:0.019719,((('GU570197|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.0072,'GU570209|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.00358)[&label="96.1/100"]:0.009254,(((('GU570203|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':1.0E-6,'GU570205|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.001792)[&label="95.8/100"]:0.007196,'GU570204|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.003602)[&label="88.6/100"]:0.003617,'KR054748|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.005402)[&label="86.4/100"]:0.003537,('HM633220|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.0036,'HM633222|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':3.0E-6)[&label="97.2/100"]:0.009092)[&label="94/100"]:0.008912)[&label="95.6/100"]:0.018185,(('HM633217|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.014692,'JX535332|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.012842)[&label="83.4/100"]:0.003612,'JX535331|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.012846)[&label="99.9/100"]:0.048092)[&label="99.2/100"]:0.035219)[&label="90.4/100"]:0.019547,(((('GU188046|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.009343,('GU456385|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.010893,'GU376737|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.011813)[&label="85/100"]:0.006106)[&label="98.9/100"]:0.030633,((('GU456386|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.0063,('HM633218|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.00358,'HM633227|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.010834)[&label="95.3/100"]:0.012036)[&label="77.5/100"]:0.009179,('HM633230|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.007234,'MK872392|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.001729)[&label="99/100"]:0.019141)[&label="59.2/99"]:0.0072,('HQ204188|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':1.0E-6,'JF694118|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.003587)[&label="98.5/100"]:0.017833)[&label="98.9/100"]:0.026798)[&label="3.1/67"]:0.013942,(('HM633224|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.007075,'MK452765|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.032175)[&label="95.9/100"]:0.017936,'KF660540|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.015767)[&label="100/100"]:0.056096)[&label="100/100"]:0.077593,'KR054751|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.092837)[&label="39.1/85"]:0.028106)[&label="100/100"]:0.149877,((((('HM633234|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.035943,('HM633241|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.011091,'MN272071|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.001636)[&label="98.8/100"]:0.031177)[&label="90.9/100"]:0.030421,'HM633236|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.036655)[&label="100/100"]:0.096633,'KY742737|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.0521)[&label="80.4/91"]:0.03784,'KY742741|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.06546)[&label="98.6/92"]:0.053647,(('KY742734|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.084532,'KY742736|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.089857)[&label="94.5/100"]:0.028687,('KY742739|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.053123,'MH170072|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.040214)[&label="99.5/100"]:0.053276)[&label="99.7/100"]:0.06513)[&label="99.9/100"]:0.107836)[&label="98.3/100"]:0.119022,((('HM633214|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.058651,((('HM633226|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':3.0E-6,'MH170073|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.018193)[&label="97.1/100"]:0.02377,('KR054750|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.06056,'KY742740|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.023106)[&label="97.7/98"]:0.025657)[&label="95.8/98"]:0.028247,('HM633229|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.014124,'HM633232|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.01685)[&label="100/100"]:0.069297)[&label="98/100"]:0.048605)[&label="98.3/100"]:0.048286,'KY742735|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.098084)[&label="92.9/100"]:0.032849,(('HM633223|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.017798,('KR054746|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':1.0E-6,'KR054749|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':1.0E-6)[&label="98.7/100"]:0.021322)[&label="99.3/100"]:0.03031,(('HM633235|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.021915,('HM633237|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.009074,'HM633238|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.007231)[&label="0/90"]:3.0E-6)[&label="98.9/100"]:0.029027,('KY742738|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':8.14E-4,'MN272073|Torque_teno_sus_virus_k2a|Sus_scrofa|Suidae':0.008293)[&label="100/100"]:0.059285)[&label="94.3/100"]:0.024198)[&label="99.9/100"]:0.064588)[&label="100/100"]:0.191135)[&label="99.7/100"]:0.283251,((('JQ406844|Torque_teno_sus_virus_k2b|Sus_scrofa|Suidae':0.013163,('JQ406845|Torque_teno_sus_virus_k2b|Sus_scrofa|Suidae':1.0E-6,'JQ406846|Torque_teno_sus_virus_k2b|Sus_scrofa|Suidae':1.0E-6)[&label="90.9/100"]:0.010589)[&label="34.6/99"]:0.010919,'KY368146|Torque_teno_sus_virus_k2b|Sus_scrofa|Suidae':0.037874)[&label="96.3/99"]:0.060918,'KY742732|Torque_teno_sus_virus_k2b|Sus_scrofa|Suidae':0.052864)[&label="100/100"]:0.647775)[&label="100/100"]:0.812512,(('KM434181|Torque_teno_chiroptera_virus_1|Tadarida_brasiliensis|Molossidae':0.023148,'MF541386|Torque_teno_chiroptera_virus_1|Desmodus_rotundus|Phyllostomidae':0.027064)[&label="99.9/100"]:0.351217,'MF541378|Torque_teno_didelphi_virus_1|Didelphis_albiventris|Didelphidae':0.344318)[&label="100/100"]:1.173517)[&label="82.2/78"]:0.11298,'MF187212|Torque_teno_indriid_virus_1|Indri_indri|Indriidae':1.552787)[&label="60.2/72"]:0.139706)[&label="71.4/46"]:0.122893,(((((((MT538162_ORF1_TTFV:0.189021,MT538015_ORF1_TTFV:0.299575)[&label="98.6/100"]:0.110368,MT537993_ORF1_TTFV:0.472147)[&label="55.5/100"]:0.080941,(MT538151_ORF1_TTFV:0.008174,MT538150_ORF1_TTFV:0.012164)[&label="100/100"]:0.34129)[&label="93.6/100"]:0.137484,(MT538133_ORF1_TTFV:0.314102,MT538082_ORF1_TTFV:0.261523)[&label="99.9/100"]:0.271824)[&label="100/100"]:0.306443,((('LC387536|Torque_teno_viverrid_virus_5|Paguma_larvata|Viverridae':0.121045,'LC387541|Torque_teno_viverrid_virus_5|Paguma_larvata|Viverridae':0.117879)[&label="100/100"]:0.216977,'LC387539|Torque_teno_viverrid_virus_5|Paguma_larvata|Viverridae':0.240795)[&label="49.9/97"]:0.085587,(('LC387537|Torque_teno_viverrid_virus_5|Paguma_larvata|Viverridae':0.21797,'LC387542|Torque_teno_viverrid_virus_5|Paguma_larvata|Viverridae':0.158602)[&label="100/100"]:0.20351,'LC387538|Torque_teno_viverrid_virus_5|Paguma_larvata|Viverridae':0.262468)[&label="68.7/100"]:0.085075)[&label="100/100"]:0.453285)[&label="99.8/100"]:0.269227,((((((MT538130_ORF1_TTFV:0.002463,((MT538034_ORF1_TTFV:0.010499,(MT538019_ORF1_TTFV:0.024773,(MT538009_ORF1_TTFV:0.015682,MT538006_ORF1_TTFV:0.009752)[&label="95.8/100"]:0.012725)[&label="62.8/98"]:0.001313)[&label="93.7/97"]:0.014551,MT538005_ORF1_TTFV:0.018849)[&label="99.9/99"]:0.034508)[&label="0/30"]:0.002589,MT538127_ORF1_TTFV:0.003816)[&label="100/100"]:0.198115,MT538031_ORF1_TTFV:0.27479)[&label="99.9/100"]:0.246861,(MT538128_ORF1_TTFV:0.008389,(MT538027_ORF1_TTFV:0.024057,(MT538021_ORF1_TTFV:0.016882,MT538013_ORF1_TTFV:0.007064)[&label="72.3/81"]:0.009964)[&label="13.6/71"]:0.003522)[&label="100/100"]:0.480923)[&label="100/100"]:0.322016,((((((MT538129_ORF1_TTFV:0.001058,MT538126_ORF1_TTFV:0.00333)[&label="100/100"]:0.323829,MT538011_ORF1_TTFV:0.181723)[&label="99.9/100"]:0.20702,(MT538024_ORF1_TTFV:0.201165,MT537996_ORF1_TTFV:0.142132)[&label="100/100"]:0.219198)[&label="99.9/100"]:0.274853,MT538033_ORF1_TTFV:0.323309)[&label="99.7/100"]:0.206289,((MT538036_ORF1_TTFV:0.012249,MT538017_ORF1_TTFV:0.006351)[&label="73.6/100"]:0.010291,MT538022_ORF1_TTFV:0.003469)[&label="100/100"]:0.660732)[&label="98.1/100"]:0.177548,(((((((((MT538038_ORF1_TTFV:0.05494,MT538003_ORF1_TTFV:0.027648)[&label="10/60"]:0.003841,(MT538035_ORF1_TTFV:0.041426,((MT538026_ORF1_TTFV:0.022256,MT538008_ORF1_TTFV:0.016987)[&label="74.4/99"]:0.002958,MT538004_ORF1_TTFV:0.01139)[&label="79.2/89"]:0.004528)[&label="36.4/90"]:0.003162)[&label="89.1/84"]:0.011664,(MT538016_ORF1_TTFV:0.019259,MT538007_ORF1_TTFV:0.071531)[&label="72.7/88"]:0.006397)[&label="70.4/87"]:0.003652,MT538023_ORF1_TTFV:0.045929)[&label="100/100"]:0.149876,MT538020_ORF1_TTFV:0.140488)[&label="99.4/100"]:0.09769,((MT538037_ORF1_TTFV:0.008851,MT538030_ORF1_TTFV:0.011311)[&label="58.3/100"]:0.015508,MT538012_ORF1_TTFV:0.011823)[&label="100/100"]:0.199155)[&label="93.4/100"]:0.0664,MT537992_ORF1_TTFV:0.406091)[&label="46.6/100"]:0.073114,((MT538000_ORF1_TTFV:0.070534,MT537995_ORF1_TTFV:0.002462)[&label="100/100"]:0.194464,MT537973_ORF1_TTFV:0.217197)[&label="100/100"]:0.222206)[&label="100/100"]:0.272279,((((((MT538001_ORF1_TTFV:0.002253,((MT537984_ORF1_TTFV:0.002252,MT537982_ORF1_TTFV:1.0E-6)[&label="74.6/100"]:0.002441,MT537981_ORF1_TTFV:0.021579)[&label="87.2/70"]:0.004812)[&label="0/60"]:1.0E-6,MT537994_ORF1_TTFV:0.006771)[&label="99.8/100"]:0.085149,(((MT537989_ORF1_TTFV:3.0E-6,MT537974_ORF1_TTFV:0.006727)[&label="92.5/96"]:0.007269,(MT537988_ORF1_TTFV:0.012599,(MT537976_ORF1_TTFV:0.016838,MT537972_ORF1_TTFV:0.017187)[&label="57.1/98"]:0.006286)[&label="90.9/99"]:0.008336)[&label="75.7/65"]:0.004356,MT537985_ORF1_TTFV:0.025829)[&label="98.4/99"]:0.066373)[&label="100/100"]:0.300107,MT537999_ORF1_TTFV:0.436551)[&label="42.9/98"]:0.071461,(((MT537991_ORF1_TTFV:1.0E-6,(MT537980_ORF1_TTFV:0.013105,MT537971_ORF1_TTFV:0.024214)[&label="0/60"]:2.0E-6)[&label="47.5/60"]:0.002148,MT537983_ORF1_TTFV:2.0E-6)[&label="100/100"]:0.265625,(((MT537987_ORF1_TTFV:3.0E-6,MT537986_ORF1_TTFV:0.006656)[&label="92/100"]:0.006636,MT537969_ORF1_TTFV:0.013355)[&label="54.9/94"]:0.015456,MT537970_ORF1_TTFV:2.0E-6)[&label="100/100"]:0.257296)[&label="100/100"]:0.25837)[&label="95.2/100"]:0.145119,(MT537998_ORF1_TTFV:0.298155,MT537977_ORF1_TTFV:0.243862)[&label="99.6/100"]:0.198145)[&label="100/100"]:0.428746)[&label="91.4/100"]:0.09584)[&label="99.9/100"]:0.253039)[&label="26.5/92"]:0.119375,((((((MT538032_ORF1_TTFV:0.007508,MT538028_ORF1_TTFV:0.016035)[&label="17.4/48"]:0.002686,((MT538018_ORF1_TTFV:0.008188,MT538002_ORF1_TTFV:0.018546)[&label="96.9/100"]:0.010224,MT538010_ORF1_TTFV:0.008212)[&label="89.4/100"]:0.0066)[&label="99.9/100"]:0.159824,((MT538029_ORF1_TTFV:0.008043,MT538014_ORF1_TTFV:0.028695)[&label="88.2/100"]:0.014535,MT538025_ORF1_TTFV:0.00989)[&label="100/100"]:0.110182)[&label="100/100"]:0.262315,((MT537997_ORF1_TTFV:0.022318,MT537990_ORF1_TTFV:0.004506)[&label="79.7/100"]:0.008952,MT537975_ORF1_TTFV:0.009346)[&label="100/100"]:0.358507)[&label="94.1/100"]:0.14397,((MT537979_ORF1_TTFV:0.133448,MT537968_ORF1_TTFV:0.211163)[&label="100/100"]:0.166478,MT537978_ORF1_TTFV:0.228322)[&label="99.9/100"]:0.22939)[&label="100/100"]:0.362613,'LC387540|Torque_teno_viverrid_virus_1|Paguma_larvata|Viverridae':0.883239)[&label="93.3/99"]:0.118587)[&label="96.6/100"]:0.1686)[&label="100/100"]:0.477581,((((((((((('AB076002|Torque_teno_canid_virus_1|Canis_lupus_familiaris|Canidae':0.006403,'KX827767|Torque_teno_canid_virus_1|Canis_lupus_familiaris|Canidae':0.008507)[&label="81.6/100"]:0.004016,('MK050987|Torque_teno_canid_virus_1|Canis_lupus_familiaris|Canidae':0.00211,'MK050988|Torque_teno_canid_virus_1|Canis_lupus_familiaris|Canidae':1.0E-6)[&label="86.7/100"]:0.004543)[&label="90.1/100"]:0.010432,('KX377522|Torque_teno_canid_virus_1|Canis_lupus_familiaris|Canidae':1.0E-6,'KX827771|Torque_teno_canid_virus_1|Canis_lupus_familiaris|Canidae':1.0E-6)[&label="98.5/100"]:0.015925)[&label="99.6/100"]:0.026884,('KX827769|Torque_teno_canid_virus_1|Canis_lupus_familiaris|Canidae':0.028986,'KX827770|Torque_teno_canid_virus_1|Canis_lupus_familiaris|Canidae':0.017936)[&label="78/100"]:0.004919)[&label="41.8/61"]:0.004613,'GU951508|Torque_teno_canid_virus_1|Canis_lupus_familiaris|Canidae':0.032429)[&label="61.5/61"]:0.004976,'KX827768|Torque_teno_canid_virus_1|Canis_lupus_familiaris|Canidae':0.030358)[&label="100/100"]:0.548742,'MF173068|Torque_teno_arthrovec_virus_3|Dermacentor_variabilis|Ixodidae':0.794689)[&label="100/100"]:0.837015,('LC387543|Torque_teno_viverrid_virus_4|Paguma_larvata|Viverridae':0.290074,('LC387544|Torque_teno_viverrid_virus_4|Paguma_larvata|Viverridae':0.05596,'LC387545|Torque_teno_viverrid_virus_4|Paguma_larvata|Viverridae':0.060963)[&label="100/100"]:0.263752)[&label="100/100"]:0.795847)[&label="95.3/100"]:0.235672,((('JN704611|Torque_teno_mustilid_virus_1|Martes_americana|Mustelidae':0.612873,'MK012439|Torque_teno_procyo_virus_6|Procyon_lotor|Procyonidae':0.963617)[&label="71/99"]:0.16514,('KX611132|Torque_teno_ursid_virus_1|Ailuropoda_melanoleuca|Ursidae':0.709565,'MK012500|Torque_teno_procyo_virus_5|Procyon_lotor|Procyonidae':0.633441)[&label="93/100"]:0.169095)[&label="100/100"]:0.444075,(('MF327551|Torque_teno_ursid_virus_2|Ailuropoda_melanoleuca|Ursidae':0.523886,'MF327552|Torque_teno_ursid_virus_3|Ailuropoda_melanoleuca|Ursidae':0.407608)[&label="87.5/100"]:0.12979,(('MF327554|Torque_teno_ursid_virus_4|Ailuropoda_melanoleuca|Ursidae':0.230606,'MF327555|Torque_teno_ursid_virus_4|Ailuropoda_melanoleuca|Ursidae':0.201492)[&label="96.2/100"]:0.113089,'MF327556|Torque_teno_ursid_virus_4|Ailuropoda_melanoleuca|Ursidae':0.403106)[&label="100/100"]:0.191669)[&label="100/100"]:0.371555)[&label="88.6/100"]:0.156081)[&label="83.9/100"]:0.120239,((('KM262782|Torque_teno_pinniped_virus_4|Phoca_vitulina|Phocidae':0.345791,'KM262783|Torque_teno_pinniped_virus_4|Phoca_vitulina|Phocidae':0.387174)[&label="100/100"]:0.911744,'KX262893|Torque_teno_felid_virus_6|Felis_catus|Felidae':1.226585)[&label="92.6/100"]:0.245903,'MF327557|Torque_teno_ursid_virus_5|Ailuropoda_melanoleuca|Ursidae':1.163778)[&label="54.1/100"]:0.162125)[&label="96.3/100"]:0.238576,'MK012516|Torque_teno_procyo_virus_4|Procyon_lotor|Procyonidae':1.336572)[&label="88.1/99"]:0.20721)[&label="97.1/100"]:0.202731)[&label="67.7/63"]:0.105565,(((('HQ335084|Torque_teno_arthrovec_virus_2|Mosquitoes__mixed_species_|Culicidae':0.372098,'HQ335085|Torque_teno_arthrovec_virus_2|Mosquitoes__mixed_species_|Culicidae':0.314382)[&label="100/100"]:0.274312,((('KJ194604|Torque_teno_rodent_virus_4|Apodemus_sylvaticus|Muridae':0.008242,((('KJ194605|Torque_teno_rodent_virus_4|Apodemus_sylvaticus|Muridae':0.006435,'KJ194606|Torque_teno_rodent_virus_4|Apodemus_sylvaticus|Muridae':2.0E-6)[&label="0/21"]:2.0E-6,'KJ194607|Torque_teno_rodent_virus_4|Apodemus_sylvaticus|Muridae':1.0E-6)[&label="88.3/100"]:0.004309,(('KJ194608|Torque_teno_rodent_virus_4|Microtus_agrestis|Cricetidae':1.0E-6,'KJ194611|Torque_teno_rodent_virus_4|Microtus_agrestis|Cricetidae':0.004287)[&label="78.3/99"]:0.002143,(((('KJ194609|Torque_teno_rodent_virus_4|Microtus_agrestis|Cricetidae':0.0,'KJ194614|Torque_teno_rodent_virus_4|Microtus_agrestis|Cricetidae':0.0):0.0,'KJ194613|Torque_teno_rodent_virus_4|Microtus_agrestis|Cricetidae':0.0):1.0E-6,'KJ194610|Torque_teno_rodent_virus_4|Microtus_agrestis|Cricetidae':0.002136)[&label="0/24"]:1.0E-6,'KJ194612|Torque_teno_rodent_virus_4|Microtus_agrestis|Cricetidae':1.0E-6)[&label="77.3/98"]:0.002137)[&label="92.6/100"]:0.006456)[&label="77.1/99"]:0.002509)[&label="98.3/100"]:0.077787,('KJ194615|Torque_teno_rodent_virus_4|Apodemus_sylvaticus|Muridae':1.0E-6,'KJ194616|Torque_teno_rodent_virus_4|Apodemus_sylvaticus|Muridae':1.0E-6)[&label="92/100"]:0.042988)[&label="100/100"]:0.473082,(('KM609325|Torque_teno_rodent_virus_5|Rattus_norvegicus|Muridae':0.002141,'KM668486|Torque_teno_rodent_virus_5|Rattus_norvegicus|Muridae':0.006316)[&label="77.3/100"]:0.014407,('KM668485|Torque_teno_rodent_virus_5|Rattus_norvegicus|Muridae':0.05432,'MF688246|Torque_teno_rodent_virus_5|Rattus_norvegicus|Muridae':0.019401)[&label="0/77"]:0.002387)[&label="100/100"]:0.932609)[&label="98.9/100"]:0.241911)[&label="0/36"]:0.054058,(((('MF541374|Torque_teno_rodent_virus_2|Akodon_montensis|Cricetidae':0.091542,'MF541375|Torque_teno_rodent_virus_2|Oligoryzomys_nigripes|Cricetidae':0.123618)[&label="98.4/100"]:0.064887,'MF541377|Torque_teno_rodent_virus_2|Akodon_montensis|Cricetidae':0.1618)[&label="100/100"]:0.1594,((('MF541376|Torque_teno_rodent_virus_2|Bolomys_lasiurus|Cricetidae':3.0E-6,'MF541381|Torque_teno_rodent_virus_2|Bolomys_lasiurus|Cricetidae':2.0E-6)[&label="94.8/100"]:0.020819,((('MF541379|Torque_teno_rodent_virus_2|Bolomys_lasiurus|Cricetidae':1.0E-6,'MF541382|Torque_teno_rodent_virus_2|Mus_musculus|Muridae':1.0E-6)[&label="0/73"]:3.0E-6,'MF541385|Torque_teno_rodent_virus_2|Bolomys_lasiurus|Cricetidae':0.004404)[&label="74.7/97"]:0.004134,('MF541380|Torque_teno_rodent_virus_2|Bolomys_lasiurus|Cricetidae':1.0E-6,'MF541383|Torque_teno_rodent_virus_2|Calomys_tener|Cricetidae':1.0E-6)[&label="98.6/100"]:0.020452)[&label="88.2/97"]:0.012867)[&label="100/100"]:0.181916,'MF541384|Torque_teno_rodent_virus_2|Bolomys_lasiurus|Cricetidae':0.204909)[&label="99.6/100"]:0.131482)[&label="97.9/100"]:0.098782,'MF541387|Torque_teno_rodent_virus_2|Oligoryzomys_nigripes|Cricetidae':0.398259)[&label="99.7/100"]:0.196614)[&label="99.5/98"]:0.260994,('MF541388|Torque_teno_rodent_virus_3|Akodon_montensis|Cricetidae':0.839531,'MF541389|Torque_teno_rodent_virus_6|Oligoryzomys_nigripes|Cricetidae':0.988325)[&label="87.7/100"]:0.161681)[&label="100/100"]:1.089794)[&label="93.4/99"]:0.182159,((MT538139_ORF1_TTFV:0.957926,'AB057358|Torque_teno_tupaia_virus|Tupaia_belangeri_chinensis|Tupaiidae':0.980878)[&label="99.4/100"]:0.704884,'MF327544|Torque_teno_virus_30|Ailuropoda_melanoleuca|Ursidae':1.510041)[&label="89.4/99"]:0.216295)[&label="88.3/99"]:0.164898,((((((((('AB076001|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':0.014209,'JF937661|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':0.001651)[&label="95/100"]:0.008626,'JF937662|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':0.016291)[&label="86.5/100"]:0.00586,(('GU456383|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':1.0E-6,'JX535327|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':1.0E-6)[&label="0/96"]:1.0E-6,'JF937660|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':0.003501)[&label="84.3/100"]:0.005109)[&label="99.6/100"]:0.055003,('HM633249|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':0.003102,'MH170067|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':0.002167)[&label="100/100"]:0.078557)[&label="99.4/100"]:0.070518,('MK012485|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':0.012896,'MN272072|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':9.44E-4)[&label="100/100"]:0.141041)[&label="100/100"]:0.116153,'MH170065|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':0.3335)[&label="89.3/99"]:0.098141,(((((('GU570198|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':3.0E-6,('GU570199|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':1.0E-6,'GU570200|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':1.0E-6)[&label="83.5/100"]:0.001705)[&label="97.6/100"]:0.008555,('HM633251|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':2.0E-6,'JF694116|Torque_teno_sus_virus_1a|Felis_catus|Felidae':0.050113)[&label="96.9/100"]:0.006859)[&label="71.8/100"]:0.001829,'MK012504|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':0.001572)[&label="100/100"]:0.112358,('MH170062|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':0.02168,'MK012457|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':0.026319)[&label="100/100"]:0.047012)[&label="42.1/95"]:0.022266,'MK012482|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':0.080818)[&label="88.1/96"]:0.025618,((('GU570201|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':0.012175,'GU570202|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':0.003673)[&label="97.7/100"]:0.012066,'HM633243|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':0.007152)[&label="96.9/100"]:0.022772,(('HM633245|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':0.007315,('HM633256|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':0.003997,'MK452764|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':0.024333)[&label="88.4/88"]:0.01251)[&label="80.4/88"]:0.004725,'MH170071|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':0.012394)[&label="99.7/100"]:0.043911)[&label="80.7/100"]:0.024198)[&label="100/100"]:0.174644)[&label="99.3/100"]:0.168529,((((((('AY823990|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':0.001772,'KT968712|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':0.008804)[&label="85.7/100"]:0.003731,'MK012492|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':0.012073)[&label="96/100"]:0.017805,('HM633244|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':0.003498,('KT037083|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':0.007026,'MK452763|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':0.003498)[&label="89.3/100"]:0.00527)[&label="98.4/100"]:0.023492)[&label="99.9/100"]:0.059878,(((('GQ120664|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':0.015085,'MK012493|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':0.032975)[&label="86.2/100"]:0.00769,'JQ933527|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':0.004121)[&label="100/100"]:0.056359,(('GU456384|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':0.007873,((('HM633247|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':1.0E-6,('HM633255|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':0.001731,'HM633258|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':0.005198)[&label="0/25"]:1.0E-6)[&label="87.5/100"]:0.003478,'MK990454|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':0.006998)[&label="89.9/93"]:0.003493,'MK012458|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':0.00558)[&label="64.6/82"]:8.3E-4)[&label="84.4/91"]:0.007852,('GU450331|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':1.0E-6,'JF694117|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':0.014982)[&label="97.7/100"]:0.016637)[&label="99.9/100"]:0.043483)[&label="96/100"]:0.028669,('HM633254|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':0.008411,'JX535326|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':0.005683)[&label="100/100"]:0.076051)[&label="49.7/97"]:0.018061)[&label="92.1/98"]:0.02724,(((('GU188045|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':0.004131,'KY742733|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':0.013882)[&label="92.1/100"]:0.008825,(('HM633246|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':0.00353,'HM633248|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':1.0E-6)[&label="94.3/100"]:0.007097,('HM633253|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':0.001771,'MH170070|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':1.0E-6)[&label="0/97"]:2.0E-6)[&label="74.2/98"]:0.008047)[&label="85.7/99"]:0.01138,'KT174486|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':0.007763)[&label="100/100"]:0.077118,('HM633250|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':0.009447,'HM633257|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':0.010097)[&label="100/100"]:0.068301)[&label="95.4/100"]:0.040251)[&label="100/100"]:0.270217,(((('HM633242|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':0.005697,'HM633252|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':0.005149)[&label="100/100"]:0.047667,'MH170064|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':0.035497)[&label="100/100"]:0.06398,(('KR054745|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':9.11E-4,'MK012489|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':0.004828)[&label="74/87"]:0.003341,'MH170066|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':0.004616)[&label="99.5/100"]:0.033917)[&label="95.2/100"]:0.048117,('JX535325|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':0.001474,('MH170063|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':0.003438,'MK012440|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':0.003441)[&label="87.4/100"]:0.007173)[&label="99.9/100"]:0.07852)[&label="100/100"]:0.203945)[&label="99.2/100"]:0.126778,('MH170068|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':0.06492,('MH170069|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':0.003871,'MK012448|Torque_teno_sus_virus_1a|Sus_scrofa|Suidae':0.001415)[&label="100/100"]:0.11586)[&label="99.7/100"]:0.114261)[&label="99.2/100"]:0.17716)[&label="99.9/100"]:0.468051,'KR902501|Torque_teno_equid_virus_1|Equus_caballus|Equidae':1.417806)[&label="100/100"]:0.710789)[&label="100/100"]:1.189252,((((MF327542_Giant_panda:0.516486,'MF327553|Torque_teno_ursid_virus_10|Ailuropoda_melanoleuca|Ursidae':0.524016)[&label="57.4/81"]:0.086179,('MF327548|Torque_teno_ursid_virus_11|Ailuropoda_melanoleuca|Ursidae':0.276399,'MF327549|Torque_teno_ursid_virus_11|Ailuropoda_melanoleuca|Ursidae':0.399192)[&label="100/100"]:0.234388)[&label="89.1/82"]:0.094004,'MF327547|Torque_teno_ursid_virus_12|Ailuropoda_melanoleuca|Ursidae':0.500398)[&label="98.8/100"]:0.403841,(LC387546_Civet:2.0E-6,LC387547_Civet:1.0E-6)[&label="100/100"]:1.141499)[&label="99.7/100"]:0.854179)[&label="99.4/100"]:0.635964)[&label="93.4/100"]:0.211592)[&label="99/100"]:0.263185,((MT538136_ORF1_TTFV:0.036763,MT538084_ORF1_TTFV:0.033736)[&label="100/100"]:0.418384,MT538131_ORF1_TTFV:0.462788)[&label="99.8/100"]:0.26889)[&label="99.3/98"]:0.2001,(JF304938_Torque_teno_felid_virus_4:0.548531,((((MT538165_ORF1_TTFV:0.061195,(MT538156_ORF1_TTFV:0.018516,MT538051_ORF1_TTFV:0.040404)[&label="94.1/100"]:0.035263)[&label="62.6/100"]:0.025357,MT538098_ORF1_TTFV:0.037524)[&label="100/100"]:0.246563,MT538088_ORF1_TTFV:0.320577)[&label="89.4/100"]:0.125792,MT538096_ORF1_TTFV:0.306815)[&label="99.8/100"]:0.276006)[&label="95.8/100"]:0.145855)[&label="92.5/79"]:0.071388,((((((((MT538181_ORF1_TTFV:0.006127,MT538066_ORF1_TTFV:3.0E-6)[&label="0/80"]:3.0E-6,MT538065_ORF1_TTFV:0.031892)[&label="96/64"]:0.012115,(((MT538169_ORF1_TTFV:3.0E-6,(MT538112_ORF1_TTFV:3.0E-6,MT538107_ORF1_TTFV:0.018824)[&label="37.1/95"]:0.006143)[&label="83.7/95"]:0.003061,MT538064_ORF1_TTFV:1.0E-6)[&label="76.6/99"]:0.003078,MT538054_ORF1_TTFV:0.016946)[&label="88.6/98"]:0.006155)[&label="0/37"]:2.0E-6,MT538075_ORF1_TTFV:0.015598)[&label="15.9/40"]:0.006632,MT538154_ORF1_TTFV:0.024658)[&label="99.3/10"]:0.030364,MT538100_ORF1_TTFV:2.0E-6)[&label="0/10"]:0.024494,MT538118_ORF1_TTFV:0.020844)[&label="100/100"]:0.409768,((MT538121_ORF1_TTFV:1.0E-6,MT538120_ORF1_TTFV:0.003656)[&label="100/100"]:0.227911,MT538074_ORF1_TTFV:0.176629)[&label="100/100"]:0.265756)[&label="100/100"]:0.268349)[&label="48.6/56"]:0.034578,((MT538152_ORF1_TTFV:0.044205,MT538062_ORF1_TTFV:0.010796)[&label="100/100"]:0.320609,MT538089_ORF1_TTFV:0.587442)[&label="99.9/100"]:0.339204)[&label="72.7/86"]:0.084785,(EF538877_Torque_teno_felid_virus_2:0.44976,((MT538179_ORF1_TTFV:0.002196,MT538173_ORF1_TTFV:0.019632)[&label="100/100"]:0.290375,(((MT538135_ORF1_TTFV:0.0,MT538045_ORF1_TTFV:0.0):1.0E-6,MT538113_ORF1_TTFV:1.0E-6)[&label="79.5/100"]:0.003429,MT538132_ORF1_TTFV:3.0E-6)[&label="100/100"]:0.272607)[&label="100/100"]:0.421792)[&label="84.3/100"]:0.156661)[&label="98.8/100"]:0.158733,((JF304937_Torque_teno_felid_virus_5:0.301846,(((MT538177_ORF1_TTFV:0.004601,MT538071_ORF1_TTFV:0.088146)[&label="98.3/100"]:0.038023,(((MT538170_ORF1_TTFV:0.049726,MT538144_ORF1_TTFV:0.053484)[&label="28.5/89"]:0.010327,MT537965_ORF1_TTFV:0.024145)[&label="11.5/70"]:0.009992,MT538073_ORF1_TTFV:0.050418)[&label="87.2/86"]:0.016131)[&label="88.6/90"]:0.018239,(MT538159_ORF1_TTFV:0.0188,(MT538046_ORF1_TTFV:3.0E-6,MT538044_ORF1_TTFV:0.01341)[&label="99.1/100"]:0.057582)[&label="92.1/100"]:0.027342)[&label="100/100"]:0.19997)[&label="98.5/100"]:0.12532,((((MT538176_ORF1_TTFV:0.02127,(((MT538158_ORF1_TTFV:0.040255,MT538043_ORF1_TTFV:0.02896)[&label="75.5/90"]:0.005612,((MT538140_ORF1_TTFV:0.032614,MT538111_ORF1_TTFV:0.027942)[&label="10.8/71"]:0.00698,((MT538106_ORF1_TTFV:0.029791,MT538068_ORF1_TTFV:0.006388)[&label="20.4/92"]:0.00386,MT538056_ORF1_TTFV:0.016746)[&label="87.5/98"]:0.011325)[&label="28.3/73"]:0.007952)[&label="52.6/81"]:0.01572,MT538119_ORF1_TTFV:0.018871)[&label="79.2/90"]:0.013434)[&label="100/100"]:0.244515,MT538142_ORF1_TTFV:0.385521)[&label="99/100"]:0.136341,((((((MT538171_ORF1_TTFV:0.012385,(MT538059_ORF1_TTFV:0.023316,MT538041_ORF1_TTFV:0.071556)[&label="97.1/81"]:0.027291)[&label="88.7/81"]:0.01634,(MT538122_ORF1_TTFV:0.013208,(MT538057_ORF1_TTFV:0.021586,MT538049_ORF1_TTFV:0.035376)[&label="96.8/100"]:0.0317)[&label="91.3/100"]:0.020628)[&label="92.7/70"]:0.025671,MT538148_ORF1_TTFV:0.025066)[&label="95.5/73"]:0.028697,MT538114_ORF1_TTFV:0.054351)[&label="6.2/59"]:0.014082,MT537966_ORF1_TTFV:0.03852)[&label="100/100"]:0.174752,((MT538157_ORF1_TTFV:0.106927,MT538053_ORF1_TTFV:0.03048)[&label="58.7/72"]:0.00778,((MT538117_ORF1_TTFV:0.044896,MT538097_ORF1_TTFV:0.037949)[&label="98.4/100"]:0.048293,MT537967_ORF1_TTFV:0.062202)[&label="57.8/100"]:0.01081)[&label="98.8/100"]:0.095025)[&label="99.9/100"]:0.160726)[&label="59.1/92"]:0.049681,((((MT538110_ORF1_TTFV:0.045386,MT538063_ORF1_TTFV:0.023693)[&label="80.9/74"]:0.010585,(((((MT538077_ORF1_TTFV:0.043857,MT538061_ORF1_TTFV:0.042779)[&label="89.2/78"]:0.015372,MT538052_ORF1_TTFV:0.026843)[&label="0/61"]:0.00147,MT538055_ORF1_TTFV:0.023264)[&label="98.5/76"]:0.023515,MT538048_ORF1_TTFV:1.0E-6)[&label="78.6/61"]:0.013429,MT538047_ORF1_TTFV:2.0E-6)[&label="88/66"]:0.011507)[&label="90.3/69"]:0.014654,MT538069_ORF1_TTFV:1.0E-6)[&label="89.4/67"]:0.010354,MT538070_ORF1_TTFV:0.006498)[&label="100/100"]:0.289928)[&label="86.5/100"]:0.109556)[&label="100/100"]:0.325167)[&label="98.5/98"]:0.136328,(((MT538175_ORF1_TTFV:0.02132,MT538153_ORF1_TTFV:0.071149)[&label="100/100"]:0.285332,((MT538166_ORF1_TTFV:0.004334,(MT538163_ORF1_TTFV:0.045226,MT538125_ORF1_TTFV:0.025158)[&label="87.9/100"]:0.015596)[&label="99.9/100"]:0.146426,MT538086_ORF1_TTFV:0.197132)[&label="100/100"]:0.308429)[&label="90.1/100"]:0.120989,((((MT538155_ORF1_TTFV:0.018127,((MT538147_ORF1_TTFV:0.027423,((MT538115_ORF1_TTFV:0.004481,MT538099_ORF1_TTFV:0.0098)[&label="82.5/98"]:0.006312,MT538101_ORF1_TTFV:0.006876)[&label="75.1/98"]:0.003604)[&label="87.5/89"]:0.007326,MT538067_ORF1_TTFV:0.023517)[&label="41.9/57"]:0.003488)[&label="85.2/27"]:0.009196,MT538123_ORF1_TTFV:0.011267)[&label="34.1/27"]:0.007858,MT538108_ORF1_TTFV:0.020175)[&label="98.5/96"]:0.09415,((MT538149_ORF1_TTFV:0.003576,MT538039_ORF1_TTFV:0.020704)[&label="90.4/100"]:0.011086,(MT538104_ORF1_TTFV:1.0E-6,MT538102_ORF1_TTFV:1.0E-6)[&label="81.7/100"]:0.006226)[&label="99.8/100"]:0.139792)[&label="100/100"]:0.328243)[&label="91.3/62"]:0.088719)[&label="85.8/60"]:0.0985,MT538138_ORF1_TTFV:0.367083)[&label="36.4/81"]:0.065817,(((((((MT538164_ORF1_TTFV:0.0,MT538040_ORF1_TTFV:0.0):0.0,MT538058_ORF1_TTFV:0.0):1.0E-6,MT538060_ORF1_TTFV:1.0E-6)[&label="0/84"]:1.0E-6,MT538124_ORF1_TTFV:0.034304)[&label="81.1/95"]:0.003502,MT538079_ORF1_TTFV:0.007029)[&label="0/77"]:3.0E-6,(((MT538109_ORF1_TTFV:0.003512,MT538105_ORF1_TTFV:0.017652)[&label="87.4/97"]:0.007044,MT538076_ORF1_TTFV:0.007062)[&label="87.5/92"]:0.007019,MT538103_ORF1_TTFV:0.003528)[&label="75.5/84"]:0.0035)[&label="75.4/94"]:0.007874,MT538078_ORF1_TTFV:0.027842)[&label="100/100"]:0.602766)[&label="55.8/85"]:0.069127,(((MT538183_ORF1_TTFV:0.009885,(((MT538178_ORF1_TTFV:0.058651,MT538167_ORF1_TTFV:0.009992)[&label="83.3/89"]:0.007448,MT538050_ORF1_TTFV:0.074492)[&label="24.4/84"]:0.009429,MT538116_ORF1_TTFV:0.016701)[&label="98.3/86"]:0.023585)[&label="90/84"]:0.009962,MT538182_ORF1_TTFV:3.0E-6)[&label="100/100"]:0.401169,MT538087_ORF1_TTFV:0.552822)[&label="99.6/100"]:0.233855)[&label="9.9/35"]:0.055854,(((((MT538184_ORF1_TTFV:0.075403,(MT538172_ORF1_TTFV:0.006977,MT538145_ORF1_TTFV:1.0E-6)[&label="98/100"]:0.022421)[&label="79.5/98"]:0.007124,((MT538180_ORF1_TTFV:0.034128,MT538146_ORF1_TTFV:0.021845)[&label="85.6/98"]:0.010339,MT538141_ORF1_TTFV:0.029193)[&label="59.7/67"]:0.003497)[&label="93/67"]:0.020033,MT538095_ORF1_TTFV:0.009031)[&label="99.9/100"]:0.147707,((MT538174_ORF1_TTFV:0.023823,((MT538168_ORF1_TTFV:0.023513,(MT538080_ORF1_TTFV:0.049318,MT538072_ORF1_TTFV:0.023415)[&label="72.8/80"]:0.003543)[&label="65.6/78"]:0.00664,MT538042_ORF1_TTFV:0.017237)[&label="73/84"]:0.003311)[&label="49.1/95"]:0.013849,MT538143_ORF1_TTFV:0.050304)[&label="97.1/100"]:0.075531)[&label="100/100"]:0.327762,(((MT538160_ORF1_TTFV:0.010664,MT538134_ORF1_TTFV:0.013193)[&label="91.2/100"]:0.037059,(MT538085_ORF1_TTFV:0.007007,MT538081_ORF1_TTFV:0.016507)[&label="89.3/100"]:0.02776)[&label="100/100"]:0.299549,MT538094_ORF1_TTFV:0.26645)[&label="98.3/100"]:0.134514)[&label="100/100"]:0.258912)[&label="88.8/88"]:0.079162,((MT538093_ORF1_TTFV:0.03288,(MT538091_ORF1_TTFV:0.00335,MT538090_ORF1_TTFV:0.121613)[&label="70.6/100"]:0.002086)[&label="100/100"]:0.348453,MT538083_ORF1_TTFV:0.386861)[&label="99.7/100"]:0.199084)[&label="17.6/90"]:0.064961,(MT538161_ORF1_TTFV:0.047226,MT538092_ORF1_TTFV:0.045154)[&label="100/100"]:0.370517)[&label="100/100"]:0.291658,MT538137_ORF1_TTFV:0.219185);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="sansserif";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute="label";
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute="User selection";
+	set nodeShapeExternal.isShown=false;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=4.0;
+	set nodeShapeExternal.sizeAttribute="Fixed";
+	set nodeShapeInternal.colourAttribute="User selection";
+	set nodeShapeInternal.isShown=false;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=4.0;
+	set nodeShapeInternal.sizeAttribute="Fixed";
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.minorTicks=0.5;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="sansserif";
+	set tipLabels.fontSize=8;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=false;
+	set trees.orderType="increasing";
+	set trees.rooting=false;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
